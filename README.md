@@ -13,12 +13,11 @@ determina el valor de ese dígito. Los pesos de un número binario se
 basan en las potencias de dos. Se puede hablar de ON-OFF,
 Falso-Verdadero, Alto-Bajo, etc.
 
-![](./image1.png){width="6.1375in" height="2.5027777777777778in"}
+![](./image1.png)
 
 TABLA ASOCIADA DE DECIMAL A BINARIO
 
-![](./image2.png){width="3.5208333333333335in"
-height="4.893737970253718in"}
+![](./image2.png)
 
 CONVERSIÓN DE DECIMAL A BINARIO
 
