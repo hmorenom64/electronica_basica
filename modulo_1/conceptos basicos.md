@@ -1,4 +1,6 @@
-![](./image1.jpeg)
+<div align="center">
+  <img src="../../../.icons/image1.jpeg" width="600px">
+</div>
 
 <div align="center">
 <b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
