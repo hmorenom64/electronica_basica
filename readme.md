@@ -61,8 +61,7 @@ A continuación se presenta cada uno de los diferentes módulos, con sus respect
 
 |Actividad|Alcance|
 | :-: | :-: |
-|[Conceptos generales de los flujos a presión](modulo_1/conceptos_basicos.md)            |  hola |
-|![Conceptos de Voltaje, Corriente y Potencia. Conceptos de DC y AC] (modulo_1/conceptos_basicos.md)  |Descripción de los conceptos esenciales de la electrónica y la Electricidad, como son el voltaje, la corriente y la potencia, haciendo uso de ecuaciones muy sencillas, y estableciendo sus diferencias. Identificación de las diferencias existentes entre Corriente Directa y Alterna. Igualmente la forma como se pueden lograr la una a partir de la otra, y sus aplicaciones en los problemas cotidianos|
+|[Conceptos de Voltaje, Corriente y Potencia. Conceptos de DC y AC](modulo_1/conceptos_basicos.md)  |Descripción de los conceptos esenciales de la electrónica y la Electricidad, como son el voltaje, la corriente y la potencia, haciendo uso de ecuaciones muy sencillas, y estableciendo sus diferencias. Identificación de las diferencias existentes entre Corriente Directa y Alterna. Igualmente la forma como se pueden lograr la una a partir de la otra, y sus aplicaciones en los problemas cotidianos|
 |Tutorial Multisim|Se observará un tutorial escrito y video para que se pueda entender la manipulación del mismo|
 |Circuitos Resistivos en DC|Ilustración de los diferentes modos de circuitos, así como sus diferentes métodos de análisis y la implementación en simulación|
 |Circuitos pasivos RLC en AC|Análisis de los circuitos RLC, identificando el efecto de la frecuencia en los mismos y su comportamiento típico, lo que lleva a entender el concepto de filtro|
