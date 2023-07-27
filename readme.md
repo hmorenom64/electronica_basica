@@ -17,11 +17,11 @@ henry.moreno@escuelaing.edu.co
 <br></div>
 
 
-
+<div align="center">
 
 ## **CURSO DE FUNDAMENTOS DE ELECTRONICA PARA INGENIEROS**
 
-
+<br></div>
 
 ## **INTRODUCCION**
 
