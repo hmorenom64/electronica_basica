@@ -24,10 +24,9 @@ P = V X I.
 También se puede expresar como 
 
 <div align="center">
-  <img src="ecuaciones/ecuacion_1.PNG" width="250px">
+  <img src="ecuaciones/ecuacion_1.png" width="250px">
 </div>
 
-P=  I2×R, utilizando la Ley de Ohm.
 
 En resumen, el voltaje es la diferencia de potencial eléctrico que impulsa la corriente a fluir a través de un circuito, mientras que la corriente es el flujo de cargas eléctricas. La potencia representa la cantidad de energía eléctrica transferida o consumida en un circuito y se calcula multiplicando el voltaje por la corriente. Estos conceptos son fundamentales para comprender el funcionamiento básico de los circuitos eléctricos y electrónicos.
 # **CORRIENTE ALTERNA (AC) Y CORRIENTE CONTINUA (DC)**
@@ -37,6 +36,12 @@ AC (Corriente Alterna) y DC (Corriente Continua) son dos tipos de corriente elé
 ## **Corriente Alterna (AC).**
 
 La Corriente Alterna es una corriente eléctrica que cambia de dirección periódicamente en el tiempo. En un circuito de CA, el flujo de electrones se invierte continuamente, oscilando entre valores positivos y negativos en un ciclo repetitivo. La frecuencia de esta oscilación se mide en Hertz (Hz) y determina el número de ciclos completos que ocurren por segundo. La corriente alterna es la forma más común de suministro eléctrico en hogares y edificios, ya que es más fácil de generar, transmitir y distribuir a largas distancias.
+
+
+<div align="center">
+  <img src="imagenes/imagen_1.png" width="250px">
+</div>
+
 
 Teniendo en cuenta que tradicionalmente la señal es sinusoidal, se tendrá una frecuencia, un periodo y una amplitud
 
@@ -48,14 +53,19 @@ Frecuencia  = 1 /Periodo
 
 Y la ecuación genérica para este caso es:
 
-(𝑡)=𝑉𝑝 𝑠𝑒𝑛𝑜(2𝜋𝑓𝑡)
+v(𝑡)=𝑉𝑝 𝑠𝑒𝑛𝑜(2𝜋𝑓𝑡)
 
 ### **Símbolo**
 
-
+<div align="center">
+  <img src="imagenes/imagen_2.png" width="250px">
+</div>
 
 ### **Ejemplos**
 
+<div align="center">
+  <img src="imagenes/imagen_3.png" width="600px">
+</div>
 
 ### **Aplicaciones**
 
@@ -67,9 +77,10 @@ Uso en electrodomésticos, herramientas eléctricas y equipos industriales.
 
 ### **Relación RMS vs Vprom**
 
-Vrms=Vp2=Vac=1T0Tv(t)2dt
+<div align="center">
+  <img src="ecuaciones/ecuacion_2.png" width="400px">
+</div>
 
-Vprom=Vdc=1T0Tvtdt
 
 
 ## **Corriente Continua (DC).**
@@ -77,9 +88,20 @@ Vprom=Vdc=1T0Tvtdt
 La Corriente Continua es una corriente eléctrica que fluye en una sola dirección constante. En un circuito de CC, los electrones se mueven desde el polo negativo al polo positivo de una fuente de alimentación. Las baterías son un ejemplo común de fuentes de corriente continua, ya que proporcionan un flujo constante de electrones en una dirección específica.
 ##
 
+<div align="center">
+  <img src="imagenes/imagen_4.png" width="250px">
+</div>
+
+
 ### **Ejemplos Reales.**
 
+<div align="center">
+  <img src="imagenes/imagen_5.png" width="600px">
+</div>
+
+
 ### **Aplicaciones**
+
 Alimentación de dispositivos electrónicos, como teléfonos móviles, computadoras y electrodomésticos portátiles.
 
 Propulsión de vehículos eléctricos.
@@ -99,12 +121,17 @@ Es importante comprender las diferencias entre AC y DC para utilizar el tipo de 
 
 ### **Símbolos**
 
-
+<div align="center">
+  <img src="imagenes/imagen_6.png" width="250px">
+</div>
 
 ## **Diferencias entre AC y DC.**
 
 Su principal **diferencia** es que la **voltaje directo** tiene un polo negativo y un polo positivo, mientras que el **voltaje alterno**, va alterando la polaridad (de ahí su nombre) varias veces por segundo
 
+<div align="center">
+  <img src="imagenes/imagen_7.png" width="600px">
+</div>
 
 ### **Dirección del flujo de electrones.**
 
