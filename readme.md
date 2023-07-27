@@ -1,6 +1,4 @@
-![C:\\Users\\KtAlInDa\\Downloads\\Centro de Estudios
-Electrónicos.jpg](./image1.jpeg){width="6.1375in"
-height="1.5065813648293964in"}
+![](./image1.jpeg)
 
 ## CURSO DE FUNDAMENTOS DE ELECTRONICA PARA INGENIEROS
 
@@ -192,6 +190,4 @@ el estudiante requiera la certificación del curso, este deberá realizar
 las actividades y presentarlas al tutor siguiendo las instrucciones del
 caso, en los tiempos establecidos.
 
-![C:\\Users\\KtAlInDa\\Desktop\\curso
-GitHUB\\IconCEHBannerCertificado.jpg](./image2.jpeg){width="6.1375in"
-height="1.7333573928258967in"}
+![](./image2.jpeg)
