@@ -55,20 +55,26 @@ Igualmente se dice que dos elementos están en serie, si en la unión de los bor
 En los circuitos en serie, se puede dividir el voltaje de entrada, de tal forma que a través de la salida por una resistencia podamos tener una porción del voltaje de entrada.
 Las leyes de Kirchhoff determinan que el voltaje de entrada en un circuito en serie se distribuye a través de todos los elementos de la malla.
 
-𝑉_𝑖𝑛=𝑉_𝑅1+𝑉_𝑅2+  …..+𝑉_𝑅𝑛
+<div align="center">
+  <img src="ecuaciones/ecuacion_3.png" width="400px">
+</div>
+
 
 El voltaje en cada resistencia está dado por la resistencia multiplicado por la corriente.
 
 Como la corriente es la misma, tenemos que:
 
-𝑉_𝑖𝑛=𝑅_1 𝐼+𝑅_2 𝐼+….+𝑅_𝑛 𝐼=𝐼(𝑅_1+…𝑅_𝑛 )
-𝐼=𝑉_𝑖𝑛/(𝑅_1+…𝑅_𝑛 )
+<div align="center">
+  <img src="ecuaciones/ecuacion_4.png" width="400px">
+</div>
+
 
 Y el voltaje en una resistencia 𝑅_𝑖 está dado por:
 
-𝑉_𝑖=𝑅_𝑖 𝐼=𝑅_𝑖  𝑉_𝑖𝑛/(𝑅_1+…𝑅_𝑛 )
 
-𝑽_𝒊=𝑹_𝒊/(𝑹_𝟏+…𝑹_𝒏 ) 𝑽_𝒊𝒏
+<div align="center">
+  <img src="ecuaciones/ecuacion_5.png" width="400px">
+</div>
 
 ### Circuitos en Paralelo
 
@@ -85,19 +91,28 @@ En los circuitos en paralelo, se puede dividir la corriente de entrada, de tal f
 Las leyes de Kirchhoff determinan que la corriente de entrada en un circuito en paralelo se distribuye a través de todos los elementos de la malla.
 
 𝐼_𝑖𝑛=𝐼_𝑅1+𝐼_𝑅2+  …..+𝐼_𝑅𝑛
+
+<div align="center">
+  <img src="ecuaciones/ecuacion_6.png" width="400px">
+</div>
+
 La corriente en cada resistencia está dado por el voltaje dividido por la respectiva resistencia.
 
 
 El voltaje es el mismo, tenemos que:
 
-𝐼_𝑖𝑛=〖𝑉/𝑅〗_1+〖𝑉/𝑅〗_2+….+〖𝑉/𝑅〗_𝑛=𝑉∗(〖1/𝑅〗_1+…+1/𝑅_𝑛 )
-𝑉=𝐼_𝑖𝑛/(〖1/𝑅〗_1+…〖1/𝑅〗_𝑛 )
+
+
+<div align="center">
+  <img src="ecuaciones/ecuacion_6.png" width="400px">
+</div>
 
 Y la corriente en una resistencia 𝑅_𝑖 está dado por:
 
-𝐼_𝑖=〖𝑉/𝑅〗_𝑖=𝐼_𝑖𝑛/(〖1/𝑅〗_1+…〖1/𝑅〗_𝑛 )  1/𝑅_𝑛 
+<div align="center">
+  <img src="ecuaciones/ecuacion_7.png" width="400px">
+</div>
 
-𝑰_𝒊=((𝟏/𝑹_𝒏)/(〖𝟏/𝑹〗_𝟏+…〖𝟏/𝑹〗_𝒏 )) 𝑰_𝒊𝒏
 
 ### Análisis de Circuitos por Mallas
 
