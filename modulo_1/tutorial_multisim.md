@@ -97,7 +97,7 @@ _Curso Electronica Básica para Ingenieros es de uso libre para fines académico
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [hmorenom64](https://github.com/hmorenom64?tab=repositories) en GitHub._
 
-| [Anterior](conceptos_basicos.md) | [:house: Inicio](../readme.md) | [:beginner: Ayuda / Colabora] | [Siguiente](Conceptos_redes_abiertas%20y%20redes_cerradas.md) |
+| [Anterior](conceptos_basicos.md) | [:house: Inicio](../readme.md) | [:beginner: Ayuda / Colabora] | [Siguiente](circuitos_resistivos.md) |
 |----------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------|
                                                                                                                                       
                                                                                                                                 
