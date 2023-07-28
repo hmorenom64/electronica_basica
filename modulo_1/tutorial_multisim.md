@@ -28,7 +28,7 @@ En este submodulo, el estudiante  tendrá el soporte necesario para el aprendiza
 ## **Objetivos.**
 Tener el soporte necesario para poder realizar las diferentes aplicaciones del curso mediante la plataforma de simulación multiSIM, el cal está desarrollado bajo National Insstruments.
 
-
+## **[Documento Tutorial de multiSIM](/manual_multiSIM.pdf)
 
 ## **Ejemplos Reales.**
 
