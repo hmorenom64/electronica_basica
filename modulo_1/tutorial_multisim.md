@@ -31,6 +31,13 @@ Tener el soporte necesario para poder realizar las diferentes aplicaciones del c
 ## [Documento Tutorial de multiSIM](./manual_multiSIM.pdf)
 
 ## **Ejemplos Reales.**
+1. Uso de Generador de voltaje DC y medidor con multimetro
+
+
+   
+2. Uso de Generador de voltaje AC y medidor con Osciloscopio
+   
+3. Uso de Generador de voltaje DC y dos resistencias y medidor de salida con Multimetro y Osciloscopio
 
 
 
