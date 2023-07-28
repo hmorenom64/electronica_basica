@@ -91,7 +91,7 @@ Tener el soporte necesario para poder realizar las diferentes aplicaciones del c
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2023.07.31| Versión No. 1 | [Henry Moreno](https://github.com/hmorenom64)  |  3  |
+| 2023.07.31| Versión No. 1 | [Henry Moreno](https://github.com/hmorenom64)  |  6 |
 
 _Curso Electronica Básica para Ingenieros es de uso libre para fines académicos.
 
