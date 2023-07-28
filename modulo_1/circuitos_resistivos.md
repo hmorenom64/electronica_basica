@@ -5,21 +5,40 @@
 Se le denomina resistencia eléctrica a la oposición al flujo de corriente eléctrica a través de un conductor.
 
 
+<div align="center">
+  <img src="imagenes/imagen_17.png" width="400px">
+</div>
 
 
 Los símbolos más utilizados son:
 
+<div align="center">
+  <img src="imagenes/imagen_18.png" width="600px">
+</div>
 
 Las principales imágenes
 
+<div align="center">
+  <img src="imagenes/imagen_19.png" width="600px">
+</div>
 
 ### Resistencias Variables
 
 #### Potenciometros
 
+<div align="center">
+  <img src="imagenes/imagen_20.png" width="600px">
+</div>
+
+
+
 ### Ley de OHM
 
 La ley de Ohm, postulada por el físico y matemático alemán George Ohm, es una ley básica de los circuitos eléctricos. Establece que la diferencia de potencial V que aplicamos entre los extremos de un conductor determinado es proporcional a la intensidad de la corriente I que circula por el citado conductor. Ohm completó la ley introduciendo la noción de resistencia eléctrica  R que es el factor de proporcionalidad que aparece en la relación entre V e I
+
+<div align="center">
+  <img src="imagenes/imagen_21.png" width="400px">
+</div>
 
 ### Circuitos en Serie
 
@@ -27,6 +46,9 @@ Se llama circuito en serie a un tipo de circuito eléctrico provisto de un ú
 
 Igualmente se dice que dos elementos están en serie, si en la unión de los bornes de dichos elementos no sale otro elemento. Es decir que el nodo de unión solo “une” a los dos elementos
 
+<div align="center">
+  <img src="imagenes/imagen_22.png" width="800px">
+</div>
 
 ### Divisores de Voltaje
 
@@ -50,7 +72,12 @@ Y el voltaje en una resistencia 𝑅_𝑖 está dado por:
 
 ### Circuitos en Paralelo
 
-Cuando hablamos de un circuito en paralelo o una conexión en paralelo, nos referimos a una conexión de dispositivos eléctricos (como bobinas, generadores, resistencias, condensadores, etc.) colocados de manera tal que tanto los terminales de entrada o bornes de cada uno, como sus terminales de salida, coincidan entre sí.
+Cuando hablamos de un circuito en paralelo o una conexión en paralelo, nos referimos a una conexión de dispositivos eléctricos (como bobinas, generadores, resistencias, condensadores, etc.) colocados de manera tal que tanto los terminales de entrada o bornes de cada uno, como sus terminales de salida, coincidan entre sí.
+
+<div align="center">
+  <img src="imagenes/imagen_23.png" width="800px">
+</div>
+
 
 ### Divisores de Corriente
 
