@@ -55,3 +55,22 @@ V(t) es la tensión aplicada al circuito en función del tiempo.
 La solución de esta ecuación diferencial depende de las condiciones iniciales y la forma de la señal de entrada V(t).
 
 En resumen, los circuitos RLC son fundamentales en electrónica y tienen una amplia gama de aplicaciones. La respuesta en frecuencia y la respuesta en el dominio del tiempo son dos formas importantes de analizar y entender su comportamiento en diferentes situaciones.
+
+
+### Control de versiones
+
+| Versión    | Descripción   | Autor                                      | Horas |
+|------------|:--------------|--------------------------------------------|:-----:|
+| 2023.07.31| Versión No. 1 | [Henry Moreno](https://github.com/hmorenom64)  |  6 |
+
+_Curso Electronica Básica para Ingenieros es de uso libre para fines académicos.
+
+_¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [hmorenom64](https://github.com/hmorenom64?tab=repositories) en GitHub._
+
+| [Anterior](circuitos_resistivos.md)) | [:house: Inicio](../readme.md) | [:beginner: Ayuda / Colabora] | [Siguiente](tutorial_multisim.md) |
+|----------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------|
+                                                                                                                                      
+                                                                                                                                
+<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBotonCertificado.png" alt="R.LTWB" width="260" border="0" /></a></div>
+                                                                                                                                      
+##
