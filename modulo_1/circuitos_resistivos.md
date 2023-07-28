@@ -90,7 +90,11 @@ Cuando hablamos de un circuito en paralelo o una conexión en paralelo, nos r
 En los circuitos en paralelo, se puede dividir la corriente de entrada, de tal forma que a través de la salida por una resistencia podamos tener una porción del corriente de entrada.
 Las leyes de Kirchhoff determinan que la corriente de entrada en un circuito en paralelo se distribuye a través de todos los elementos de la malla.
 
-𝐼_𝑖𝑛=𝐼_𝑅1+𝐼_𝑅2+  …..+𝐼_𝑅𝑛
+
+
+<div align="center">
+  <img src="ecuaciones/ecuacion_8.png" width="400px">
+</div>
 
 <div align="center">
   <img src="ecuaciones/ecuacion_6.png" width="400px">
@@ -115,6 +119,20 @@ Y la corriente en una resistencia 𝑅_𝑖 está dado por:
 
 
 ### Análisis de Circuitos por Mallas
+
+El análisis de circuitos por mallas es una técnica utilizada en ingeniería eléctrica y electrónica para resolver circuitos complejos que contienen múltiples elementos, tales como resistencias, fuentes de voltaje y fuentes de corriente. La técnica de análisis de mallas se basa en la aplicación de las leyes de Kirchhoff, que son principios fundamentales para resolver circuitos eléctricos.
+
+El método de análisis de mallas consiste en dividir el circuito en diferentes lazos o mallas, donde una malla es un camino cerrado en el circuito que no contiene ningún nodo interno (punto donde se conectan tres o más elementos). Luego, se asignan corrientes desconocidas a cada malla y se aplican las leyes de Kirchhoff para escribir ecuaciones que relacionen estas corrientes y las tensiones en los elementos del circuito.
+
+Las dos leyes de Kirchhoff utilizadas en el análisis de mallas son:
+
+La ley de corrientes de Kirchhoff (LCK): Esta ley establece que la suma algebraica de las corrientes en un nodo es igual a cero. En otras palabras, la suma de todas las corrientes que ingresan a un nodo es igual a la suma de todas las corrientes que salen de ese nodo.
+
+La ley de tensiones de Kirchhoff (LTK): Esta ley establece que la suma algebraica de las caídas de voltaje en un lazo cerrado es igual a cero. En otras palabras, la suma de todas las caídas de voltaje a lo largo de un camino cerrado en el circuito es igual a la suma de las fuentes de voltaje en ese mismo camino cerrado.
+
+Una vez que se han establecido las ecuaciones usando las leyes de Kirchhoff, se pueden resolver simultáneamente para encontrar los valores de las corrientes desconocidas en cada malla y, posteriormente, obtener otras variables como las tensiones en los elementos del circuito.
+
+El análisis de mallas es especialmente útil para circuitos con muchas resistencias en serie y/o paralelo, ya que permite reducir el número de ecuaciones que deben resolverse en comparación con otros métodos de análisis de circuitos, como el análisis nodal. Sin embargo, el enfoque de mallas es más adecuado para circuitos donde el número de mallas es menor o igual al número de nodos menos uno (m <= N-1), donde N es el número de nodos en el circuito. Si el número de mallas es mayor, es posible que sea más práctico utilizar el análisis nodal o una combinación de ambos métodos para resolver el circuito.
 
 Se identifican el número de mallas, de tal forma que queden involucrados todos los elementos del circuito. Para cada malla se relaciona una corriente
 Para cada malla, se plantea una ecuación, de tal forma que los voltajes
