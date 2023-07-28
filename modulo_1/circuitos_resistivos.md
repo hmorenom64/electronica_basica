@@ -158,7 +158,14 @@ El análisis de mallas es especialmente útil para circuitos con muchas resisten
 Se identifican el número de mallas, de tal forma que queden involucrados todos los elementos del circuito. Para cada malla se relaciona una corriente
 Para cada malla, se plantea una ecuación, de tal forma que los voltajes
 
-## 
+## Taller de Evaluación
+
+1. Implementar el siguiente circuito. Realizar el análisis teórico, para calcular los voltajes que se ilustran en la gráfica y corroborar que efectivamente corresponden a los datos medidos
+
+<div align="center">
+  <img src="imagenes/imagen_24.png" width="800px">
+</div>
+   
 
 ### Control de versiones
 
