@@ -90,7 +90,30 @@ Esto significa que a bajas frecuencias la caída de voltaje es pequeña y el pot
 
 La reactancia capacitiva se puede formular de la siguiente manera:
 
+<div align="center">
+  <img src="ecuaciones/ecuacion_9.png" width="600px">
+</div>
 
+#### Cálculo de la ecuación de salida
+
+Para obtener la ecuación del divisor potencial, debemos considerar la impedancia, la reactancia capacitiva, el voltaje de entrada y la tensión de salida. Al usar estos términos, podemos formular la ecuación para la ecuación del divisor potencial RC de la siguiente manera
+
+<div align="center">
+  <img src="ecuaciones/ecuacion_10.png" width="600px">
+</div>
+
+Al usar esta ecuación, podemos calcular el valor de la salida en cualquier frecuencia aplicada.
+
+
+EJEMPLO DE FILTRO DE PASO
+
+Examinemos estos valores de voltaje de salida y los valores de reactancia capacitiva considerando los valores de resistencia y capacitor. Deje que el valor de la resistencia R sea de 4.7kΩ y el valor del condensador como 47nF. La entrada de voltaje A.C suministrada es de 10V. Los valores de frecuencia para los que vamos a calcular son de 1 kHz y 10 kHz.
+
+<div align="center">
+  <img src="ecuaciones/ecuacion_11.png" width="600px">
+</div>
+
+Con esto podemos decir claramente que cuando la frecuencia aumenta el capacitivo la reactancia disminuye No solo disminuye la reactancia capacitiva sino también la tensión de salida. Del ejemplo anterior se observa que la reactancia capacitiva se reduce de 3386,27 ohmios a 338,62 ohmios, mientras que la tensión de salida disminuyó de 5,84 voltios a 0,718 voltios con el aumento de la frecuencia de 1 kHz a 10 kHz.
 
 ### Control de versiones
 
