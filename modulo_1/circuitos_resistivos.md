@@ -166,7 +166,11 @@ Para cada malla, se plantea una ecuación, de tal forma que los voltajes
   <img src="imagenes/imagen_24.png" width="800px">
 </div>
    
+2. Implementar el siguiente circuito. Realizar el análisis teórico, para calcular los voltajes que se ilustran en la gráfica y corroborar que efectivamente corresponden a los datos medidos
 
+<div align="center">
+  <img src="imagenes/imagen_25.png" width="800px">
+</div>
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
