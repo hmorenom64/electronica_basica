@@ -137,7 +137,7 @@ En la siguiente imagen se muestra el esquema del filtro:
 La frecuencia donde el filtro permite mayor ganancia de salida, se le denomina frecuencia de resonancia. La siguiente ecuación permite dicho calculo:
 
 <div align="center">
-  <img src="ecuaciones/ecuacion_12.png" width="600px">
+  <img src="ecuaciones/ecuacion_12.png" width="200px">
 </div>
 
 ### Control de versiones
