@@ -158,13 +158,13 @@ El análisis de mallas es especialmente útil para circuitos con muchas resisten
 Se identifican el número de mallas, de tal forma que queden involucrados todos los elementos del circuito. Para cada malla se relaciona una corriente
 Para cada malla, se plantea una ecuación, de tal forma que los voltajes
 
-
+## 
 
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2023.07.31| Versión No. 1 | [Henry Moreno](https://github.com/hmorenom64)  |  3  |
+| 2023.07.31| Versión No. 1 | [Henry Moreno](https://github.com/hmorenom64)  |  6 |
 
 _Curso Electronica Básica para Ingenieros es de uso libre para fines académicos.
 
