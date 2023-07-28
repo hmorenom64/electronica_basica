@@ -72,6 +72,23 @@ El circuito de filtro de paso bajo diseñado por componentes pasivos se conoce c
 
 El filtro de paso bajo RC se muestra a continuación
 
+<div align="center">
+  <img src="imagenes/imagen_26.png" width="600px">
+</div>
+
+Simplemente conectando la resistencia ‘R’ en serie con un condensador ‘C’ da RC Pass Low Filter. Simplemente puede referirse como filtro de paso bajo (LPF). La resistencia es independiente de las variaciones de las frecuencias aplicadas en el circuito pero el condensador es un componente sensible que significa que responde a los cambios en el circuito.
+
+Dado que tiene solo un componente reactivo, este circuito también se puede denominar como ‘filtro de un polo’ o ‘filtro de primer orden’. La tensión de entrada «Vin» se aplica a todo el ciclo de la serie y la tensión de salida solo se aplica a través del condensador.
+
+Dado que el condensador es un componente sensible, la concentración principal a observar se refiere a la «reactancia capacitiva». La reactancia capacitiva es la respuesta de la oposición creada por el condensador en el circuito.
+
+Para mantener la capacitancia del condensador, el condensador se opondrá a una pequeña cantidad de flujo de corriente en el circuito. Esta oposición al flujo de corriente en el circuito se llama impedancia. Por lo tanto, la reactancia capacitiva disminuye con el aumento de la corriente opuesta.
+
+Con esto podemos decir que la reactancia capacitiva es inversamente proporcional a la frecuencia aplicada al circuito. El valor resistivo de la resistencia es estable mientras que el valor de la reactancia capacitiva varía. La caída de tensión en el condensador es muy inferior en comparación con el potencial de tensión del condensador.
+
+Esto significa que a bajas frecuencias la caída de voltaje es pequeña y el potencial de voltaje es grande, pero a altas frecuencias la caída de voltaje es muy alta y el potencial de voltaje es menor. Por este fenómeno podemos decir que el circuito anterior puede actuar como un circuito ‘divisor de voltaje de frecuencia variable’.
+
+La reactancia capacitiva se puede formular de la siguiente manera:
 
 
 
