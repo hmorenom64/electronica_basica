@@ -124,6 +124,22 @@ El filtro de paso bajo como integrador se puede utilizar como conformación de o
 
 También se usan en circuitos demoduladores para extraer los parámetros necesarios del señales moduladas.
 
+### Filro Pasa Bandas
+
+Un filtro pasa banda pasivo de segundo orden RLC como su nombre lo dice solo permite el paso una banda de frecuencias y atenúa todas las demás. Esta compuesto por tres elementos, un condensador, una bobina y una resistencia. Se conoce como pasivo por que solo esta compuesto por elementos pasivos, y es de segundo orden por que contiene dos elementos reactivos ( un condensador y una bobina). Presenta tres principales características: Ganancia de uno en la frecuencia central, ganancia de 0.707 (1 sobre raiz de 2) en las frecuencias de corte, y además permite trabajar cualquier factor de calidad (selectividad) mientras los elementos del mismo lo permitan.
+
+En la siguiente imagen se muestra el esquema del filtro:
+
+<div align="center">
+  <img src="imagenes/imagen_27.png" width="600px">
+</div>
+
+La frecuencia donde el filtro permite mayor ganancia de salida, se le denomina frecuencia de resonancia. La siguiente ecuación permite dicho calculo:
+
+<div align="center">
+  <img src="ecuaciones/ecuacion_12.png" width="600px">
+</div>
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
