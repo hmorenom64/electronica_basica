@@ -115,6 +115,15 @@ Examinemos estos valores de voltaje de salida y los valores de reactancia capaci
 
 Con esto podemos decir claramente que cuando la frecuencia aumenta el capacitivo la reactancia disminuye No solo disminuye la reactancia capacitiva sino también la tensión de salida. Del ejemplo anterior se observa que la reactancia capacitiva se reduce de 3386,27 ohmios a 338,62 ohmios, mientras que la tensión de salida disminuyó de 5,84 voltios a 0,718 voltios con el aumento de la frecuencia de 1 kHz a 10 kHz.
 
+Aplicaciones del Filtro Pasabajo
+
+El uso principal de los circuitos de filtro de paso bajo es para evitar ondulaciones de CA en la salida del rectificador. El filtro de paso bajo se usa en los circuitos de amplificación de audio.
+
+Al usar este filtro pasivo de paso bajo, podemos reducir directamente el ruido de alta frecuencia a un pequeño modo de perturbación en los sistemas estéreo.
+El filtro de paso bajo como integrador se puede utilizar como conformación de onda y circuitos de generación de onda debido a la fácil conversión de un tipo de señal eléctrica en otra forma.
+
+También se usan en circuitos demoduladores para extraer los parámetros necesarios del señales moduladas.
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
