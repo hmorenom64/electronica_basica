@@ -34,7 +34,7 @@ Tener el soporte necesario para poder realizar las diferentes aplicaciones del c
 
 
 
-### **Aplicaciones**
+## **Aplicaciones**
 
 
 
@@ -42,7 +42,7 @@ Tener el soporte necesario para poder realizar las diferentes aplicaciones del c
 
 
 
-### Control de versiones
+## Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
