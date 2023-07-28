@@ -52,9 +52,6 @@ Tener el soporte necesario para poder realizar las diferentes aplicaciones del c
   <img src="imagenes/imagen_10.png" width="1000px">
 </div>
 
-## **Aplicaciones**
-
-
 
 ## **Taller de Simulación.**
 
