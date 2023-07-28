@@ -55,6 +55,36 @@ Tener el soporte necesario para poder realizar las diferentes aplicaciones del c
 
 ## **Taller de Simulación.**
 
+1. Primer ejercicio
+
+   <div align="center">
+  <img src="imagenes/imagen_15.png" width="1000px">
+</div>
+
+   <div align="center">
+  <img src="imagenes/imagen_16.png" width="1000px">
+</div>
+
+2. Segundo ejercicio
+
+   <div align="center">
+  <img src="imagenes/imagen_13.png" width="1000px">
+</div>
+
+   <div align="center">
+  <img src="imagenes/imagen_14.png" width="1000px">
+</div>
+
+3. Tercer ejercicio
+
+
+   <div align="center">
+  <img src="imagenes/imagen_11.png" width="1000px">
+</div>
+
+   <div align="center">
+  <img src="imagenes/imagen_12.png" width="1000px">
+</div>
 
 
 ## Control de versiones
