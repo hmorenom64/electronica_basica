@@ -23,7 +23,7 @@ henry.moreno@escuelaing.edu.co
 
 Los circuitos RLC son circuitos eléctricos que contienen componentes pasivos como resistencias (R), inductancias (L) y capacitancias (C). Estos circuitos son muy comunes en electrónica y tienen aplicaciones en diversos dispositivos y sistemas.
 
-Conceptos básicos:
+## Conceptos básicos.
 
 Resistencia (R): Representa la oposición al flujo de corriente en el circuito y se mide en ohmios (Ω).
 
@@ -35,11 +35,11 @@ Respuesta en frecuencia: La respuesta en frecuencia de un circuito RLC se refier
 
 Respuesta en el dominio del tiempo: La respuesta en el dominio del tiempo describe cómo se comporta el circuito en función del tiempo. Al aplicar una señal de entrada, el circuito RLC responderá con una forma de onda que puede ser transitoria o estacionaria, dependiendo de las condiciones iniciales y los componentes del circuito.
 
-Respuesta en frecuencia:
+## Respuesta en frecuencia.
 
 Para analizar la respuesta en frecuencia de un circuito RLC, se puede aplicar una señal sinusoidal como entrada y medir la amplitud y la fase de la señal de salida en diferentes frecuencias. Esto se puede representar en un gráfico llamado diagrama de Bode, que muestra la ganancia y la fase del circuito en función de la frecuencia. En un circuito RLC, habrá una frecuencia resonante en la que la amplitud de la respuesta es máxima.
 
-Respuesta en el dominio del tiempo:
+## Respuesta en el dominio del tiempo.
 
 La respuesta en el dominio del tiempo se puede analizar utilizando ecuaciones diferenciales que describen el comportamiento del circuito. Por ejemplo, para un circuito RLC en serie, la ecuación diferencial que gobierna la corriente en función del tiempo es:
 
@@ -55,6 +55,24 @@ V(t) es la tensión aplicada al circuito en función del tiempo.
 La solución de esta ecuación diferencial depende de las condiciones iniciales y la forma de la señal de entrada V(t).
 
 En resumen, los circuitos RLC son fundamentales en electrónica y tienen una amplia gama de aplicaciones. La respuesta en frecuencia y la respuesta en el dominio del tiempo son dos formas importantes de analizar y entender su comportamiento en diferentes situaciones.
+
+## Filtros
+
+El filtro es un circuito que se usa para filtrar las señales, ya que pasará solo las señales necesarias y evitará señales no deseadas. En general, los filtros están diseñados por componentes pasivos o por componentes activos.
+
+Los componentes pasivos son resistencias, inductores y condensadores.
+
+Los componentes activos son transistores, FET y amplificadores operacionales.
+
+El filtro de paso bajo es un filtro que pasará solo señales de baja frecuencia y atenuará señales de alta frecuencia. Permite señales de solo 0Hz para cortar la frecuencia ‘fc’. Este valor de frecuencia de corte dependerá del valor de los componentes utilizados en el circuito. En general, estos filtros son preferibles por debajo de 100 kHz. La frecuencia de corte también se denomina frecuencia de corte o frecuencia de giro.
+
+### Filtros Pasa bajos
+
+El circuito de filtro de paso bajo diseñado por componentes pasivos se conoce como filtro pasivo de paso bajo.
+
+El filtro de paso bajo RC se muestra a continuación
+
+
 
 
 ### Control de versiones
