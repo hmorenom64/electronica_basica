@@ -192,17 +192,17 @@ El sistema de numeración hexadecimal consta de dieciséis caracteres y se usan 
   <img src="imagenes/im_17.png" width="400px">
 </div>
 
-#### Conversión Binaria a Hexadecimal
+#### CONVERSION BINARIA HEXADECIMAL
 
  <div align="left">
-  <img src="imagenes/im_18.png" width="600px">
+  <img src="imagenes/im_18.png" width="800px">
 </div>
 
 
-#### Conversión hexadecimal-binario
+#### CONVERSION HEXADECIMAL BINARIO
 
  <div align="left">
-  <img src="imagenes/im_19.png" width="600px">
+  <img src="imagenes/im_19.png" width="800px">
 </div>
 
 ### Control de versiones
