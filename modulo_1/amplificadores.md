@@ -64,7 +64,7 @@ La configuración básica del amplificador inversor consta de dos elementos prin
 Aquí tienes el diagrama esquemático del amplificador inversor:
 
 <div align="center">
-  <img src="imagenes/imagen_47.png" width="400px">
+  <img src="imagenes/imagen_47.png" width="800px">
 </div>
 
 
@@ -76,7 +76,7 @@ Vref: Referencia de voltaje (normalmente conectada a tierra).
 La ganancia del amplificador inversor se calcula mediante la siguiente fórmula:
 
 <div align="center">
-  <img src="imagenes/imagen_48.png" width="400px">
+  <img src="imagenes/imagen_48.png" width="300px">
 </div>
 
 Es importante notar que la ganancia será siempre positiva debido al valor absoluto en la fórmula. Sin embargo, como la señal se invierte, su polaridad será opuesta a la señal de entrada.
