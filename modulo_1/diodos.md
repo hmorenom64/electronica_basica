@@ -130,6 +130,30 @@ El circuito final se ppresenta en la siguiente gráfica
   <img src="imagenes/imagen_36.png" width="400px">
 </div>
 
+### Aplicación diodo - Adaptador DC 
+
+<div align="center">
+  <img src="imagenes/imagen_37.png" width="400px">
+</div>
+
+# Diodo Zener
+
+Un diodo Zener es un tipo especial de diodo semiconductor diseñado para operar en la región de ruptura inversa o zona Zener. A diferencia de los diodos convencionales, que están diseñados para funcionar en la región de conducción directa, los diodos Zener están específicamente diseñados para operar en la región de ruptura inversa, lo que les permite mantener una tensión constante en sus terminales cuando se polarizan en esta dirección.
+
+El comportamiento principal de un diodo Zener es su capacidad para mantener una tensión constante (voltaje Zener) a través de sus terminales, siempre que la corriente inversa (corriente en la dirección opuesta a la corriente de conducción) esté dentro de un rango específico conocido como corriente Zener nominal o corriente de prueba.
+
+Esto hace que los diodos Zener sean muy útiles en diversas aplicaciones, principalmente en la regulación de tensión. Cuando se conecta en paralelo a una carga, el diodo Zener puede mantener una tensión estable en la carga, lo que lo convierte en un componente esencial en fuentes de alimentación reguladas y circuitos de protección contra sobretensiones.
+
+En resumen, las principales características de un diodo Zener son:
+
+Operación en la región de ruptura inversa.
+Capacidad para mantener una tensión constante (voltaje Zener) en sus terminales dentro de un rango específico de corriente inversa.
+Utilizado principalmente en aplicaciones de regulación de tensión y protección contra sobretensiones.
+Es importante tener en cuenta las especificaciones del diodo Zener, como su voltaje Zener nominal, potencia máxima disipada y corriente de prueba, para utilizarlo correctamente en un circuito.
+
+<div align="center">
+  <img src="imagenes/imagen_38.png" width="400px">
+</div>
 
 
 ### Control de versiones
