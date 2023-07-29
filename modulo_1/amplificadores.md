@@ -116,8 +116,28 @@ Mayor rango de voltaje de salida: El amplificador no inversor puede proporcionar
 
 Es importante tener en cuenta que los amplificadores operacionales ideales tienen características ideales y suponen una diferencia de potencial (tensión) nula entre sus entradas. En la práctica, los op-amps reales tienen limitaciones y se deben considerar ciertas restricciones para obtener un rendimiento óptimo en las aplicaciones.
 
+##Taller de Evaluación
+
+1. Implementar el siguiente circuito:
+
+<div align="center">
+  <img src="imagenes/imagen_51.png" width="800px">
+</div>
+
+<div align="center">
+  <img src="imagenes/imagen_52.png" width="800px">
+</div>
 
 
+2. Implementar el siguiente circuito:
+
+<div align="center">
+  <img src="imagenes/imagen_53.png" width="800px">
+</div>
+
+<div align="center">
+  <img src="imagenes/imagen_54.png" width="800px">
+</div>
 
 ### Control de versiones
 
