@@ -155,6 +155,34 @@ Es importante tener en cuenta las especificaciones del diodo Zener, como su volt
   <img src="imagenes/imagen_38.png" width="800px">
 </div>
 
+### Diodo LED
+
+Un LED (Diodo Emisor de Luz). Cuando el conduce emite adicionalmente una luz
+
+<div align="center">
+  <img src="imagenes/imagen_39.png" width="800px">
+</div>
+
+### Diodo SCR (Tiristor)
+
+Es un diodo que cumple con la función de conducir cuando está polarizado en directo y abrirse cuando está polarizado en inverso. Es decir hasta ahí, es lo mismo que cualquier diodo.
+
+<div align="center">
+  <img src="imagenes/imagen_40.png" width="800px">
+</div>
+
+La diferencia entre un SCR y un diodo tradicional radica en la entrada adicional GATE (puerta), la cual es una entrada que se requiere para poder “dispararse” y conducir. Es decir, así esté polarizado en directo, pero si no hay orden de disparo el no conduce. Solamente hasta que le llegue un pulso de corriente el comienza a conducir.
+
+Si está polarizado en inverso, así le llegue el pulso de corriente por el GATE, nunca conducirá
+
+<div align="center">
+  <img src="imagenes/imagen_41.png" width="800px">
+</div>
+
+
+
+
+
 
 ### Control de versiones
 
