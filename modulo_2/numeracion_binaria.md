@@ -75,7 +75,7 @@ Por ejemplo, para convertir el número binario 10111(2) a decimal, lo desarrolla
 #### EJERCICIOS
 
 <div align="center">
-  <img src="imagenes/im_7.png" width="800px">
+  <img src="imagenes/im_7.png" width="700px">
 </div>
 
 ### CONVERSIÓN DE FRACCIONES DECIMALES A BINARIO
@@ -84,7 +84,7 @@ Por el método de multiplicaciones por 2 y tomando el entero y seguir aplicándo
 
 
 <div align="center">
-  <img src="imagenes/im_8.png" width="800px">
+  <img src="imagenes/im_8.png" width="600px">
 </div>
 
 
