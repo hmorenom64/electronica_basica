@@ -58,4 +58,22 @@ Tomando los restos en orden inverso o sea de abajo hacia arriba obtenemos las ci
 
 
 
+### Control de versiones
+
+| Versión    | Descripción   | Autor                                      | Horas |
+|------------|:--------------|--------------------------------------------|:-----:|
+| 2023.07.31| Versión No. 1 | [Henry Moreno](https://github.com/hmorenom64)  |  6 |
+
+_Curso Electronica Básica para Ingenieros es de uso libre para fines académicos.
+
+_¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [hmorenom64](https://github.com/hmorenom64?tab=repositories) en GitHub._
+
+| [Anterior](../readme.md) | [:house: Inicio](../readme.md) | [:beginner: Ayuda / Colabora] | [Siguiente](../readme.md) |
+|----------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------|
+                                                                                                                                      
+                                                                                                                                
+<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBotonCertificado.png" alt="R.LTWB" width="260" border="0" /></a></div>
+                                                                                                                                      
+##
+
 
