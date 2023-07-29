@@ -167,6 +167,7 @@ DC: Generalmente se obtiene a partir de baterías y se utiliza en dispositivos e
 
 ## **Taller de Simulación.**
 
+Mediante el uso de cualquier simulador en la web, de uso libre, identificar los generadores de señal y los graficadores u osciloscopios. Posteriormente se debe generar señales de voltaje sinoidales, triangulares y cuadradas, para poderlas graficar en el instrumento de medida correspondiente.
 
 
 ### Control de versiones
