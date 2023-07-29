@@ -121,23 +121,23 @@ Es importante tener en cuenta que los amplificadores operacionales ideales tiene
 1. Implementar el siguiente circuito:
 
 <div align="center">
-  <img src="imagenes/imagen_51.png" width="800px">
+  <img src="imagenes/imagen_51.png" width="600px">
 </div>
 
-<div align="center">
-  <img src="imagenes/imagen_52.png" width="800px">
-</div>
+
+  <img src="imagenes/imagen_52.png" width="600px">
+
 
 
 2. Implementar el siguiente circuito:
 
 <div align="center">
-  <img src="imagenes/imagen_53.png" width="800px">
+  <img src="imagenes/imagen_53.png" width="600px">
 </div>
 
-<div align="center">
-  <img src="imagenes/imagen_54.png" width="800px">
-</div>
+
+  <img src="imagenes/imagen_54.png" width="600px">
+
 
 ### Control de versiones
 
