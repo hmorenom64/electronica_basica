@@ -205,6 +205,29 @@ El sistema de numeración hexadecimal consta de dieciséis caracteres y se usan 
   <img src="imagenes/im_19.png" width="800px">
 </div>
 
+
+#### CONVERSION HEXADECIMAL DECIML
+
+ <div align="left">
+  <img src="imagenes/im_20.png" width="800px">
+</div>
+
+ <div align="left">
+  <img src="imagenes/im_21.png" width="800px">
+</div>
+
+#### CONVERSION HEXADECIMAL DECIMAL
+
+<div align="left">
+  <img src="imagenes/im_22.png" width="800px">
+</div>
+
+#### SUMAS HEXADECIMALES
+
+<div align="left">
+  <img src="imagenes/im_23.png" width="800px">
+</div>
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
