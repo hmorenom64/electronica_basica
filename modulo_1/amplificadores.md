@@ -3,7 +3,9 @@ n amplificador operacional, comúnmente conocido como "op-amp" (abreviatura de o
 
 El símbolo esquemático del amplificador operacional es un triángulo con dos entradas marcadas (+ y -) y una salida:
 
-
+<div align="center">
+  <img src="imagenes/imagen_46.png" width="600px">
+</div>
 
 
 
@@ -15,8 +17,11 @@ La entrada inversora (-): Es la terminal donde se aplica la señal de retroalime
 
 La salida del amplificador operacional se genera como una amplificación de la diferencia de voltaje entre las dos entradas, multiplicada por un factor de ganancia (A):
 
+<div align="center">
+  <img src="imagenes/imagen_47.png" width="600px">
+</div>
 
-
+El valor de K es muy grande, típicamente 10^5
 
 
 En teoría, el valor de ganancia (A) es infinito, pero en la práctica, los amplificadores operacionales tienen una ganancia muy alta. Por lo tanto, cualquier pequeña diferencia entre las dos entradas generará una salida amplificada significativamente.
