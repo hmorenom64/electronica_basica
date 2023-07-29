@@ -141,7 +141,7 @@ El complemento a 2 de 10110111 es: 01001000 + 1 = 01001001
 Las reglas de multiplicación son:
 
 <div align="center">
-  <img src="imagenes/im_12.png" width="800px">
+  <img src="imagenes/im_12.png" width="600px">
 </div>
 
 ### NUMEROS CON SIGNO
@@ -149,7 +149,7 @@ Las reglas de multiplicación son:
 La primera representación es Signo-Magnitud, en donde el bit MSB corresponderá al signo (0 positivo y 1 negativo) y los bits corresponderán a la magnitud.  Pensemos en un sistema de 4 bits. En este caso los bits 2, 1 y 0 serán la magnitud y el b3 será el signo
 
 <div align="center">
-  <img src="imagenes/im_13.png" width="800px">
+  <img src="imagenes/im_13.png" width="300px">
 </div>
 
 ### Control de versiones
