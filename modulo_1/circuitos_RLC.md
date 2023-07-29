@@ -154,6 +154,22 @@ Y diligenciar la siguiente tabla:
   <img src="imagenes/imagen_12.png" width="600px">
 </div> 
 
+Calcular la frecuencia de Resonancia y verificarla con el resultado que se puede observar en la gráfica
+
+2. Implementar el siguiente circuito:
+
+  <div align="center">
+  <img src="imagenes/imagen_29.png" width="600px">
+</div> 
+
+Y diligenciar la siguiente tabla:
+
+  <div align="center">
+  <img src="imagenes/imagen_12.png" width="600px">
+</div> 
+
+Calcular la frecuencia de Resonancia y verificarla con el resultado que se puede observar en la gráfica
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
