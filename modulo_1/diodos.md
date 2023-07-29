@@ -136,7 +136,7 @@ El circuito final se ppresenta en la siguiente gráfica
   <img src="imagenes/imagen_37.png" width="800px">
 </div>
 
-# Diodo Zener
+## Diodo Zener
 
 Un diodo Zener es un tipo especial de diodo semiconductor diseñado para operar en la región de ruptura inversa o zona Zener. A diferencia de los diodos convencionales, que están diseñados para funcionar en la región de conducción directa, los diodos Zener están específicamente diseñados para operar en la región de ruptura inversa, lo que les permite mantener una tensión constante en sus terminales cuando se polarizan en esta dirección.
 
@@ -155,7 +155,7 @@ Es importante tener en cuenta las especificaciones del diodo Zener, como su volt
   <img src="imagenes/imagen_38.png" width="800px">
 </div>
 
-### Diodo LED
+## Diodo LED
 
 Un LED (Diodo Emisor de Luz). Cuando el conduce emite adicionalmente una luz
 
@@ -163,7 +163,7 @@ Un LED (Diodo Emisor de Luz). Cuando el conduce emite adicionalmente una luz
   <img src="imagenes/imagen_39.png" width="600px">
 </div>
 
-### Diodo SCR (Tiristor)
+## Diodo SCR (Tiristor)
 
 Es un diodo que cumple con la función de conducir cuando está polarizado en directo y abrirse cuando está polarizado en inverso. Es decir hasta ahí, es lo mismo que cualquier diodo.
 
