@@ -133,7 +133,7 @@ El circuito final se ppresenta en la siguiente gráfica
 ### Aplicación diodo - Adaptador DC 
 
 <div align="center">
-  <img src="imagenes/imagen_37.png" width="400px">
+  <img src="imagenes/imagen_37.png" width="800px">
 </div>
 
 # Diodo Zener
@@ -152,7 +152,7 @@ Utilizado principalmente en aplicaciones de regulación de tensión y protecció
 Es importante tener en cuenta las especificaciones del diodo Zener, como su voltaje Zener nominal, potencia máxima disipada y corriente de prueba, para utilizarlo correctamente en un circuito.
 
 <div align="center">
-  <img src="imagenes/imagen_38.png" width="400px">
+  <img src="imagenes/imagen_38.png" width="800px">
 </div>
 
 
