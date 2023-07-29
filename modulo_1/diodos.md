@@ -42,30 +42,46 @@ El primer elemento creado bajo estas condiciones se le denominó DIODO
 
 ### Diodo Polarizado directamente
 
-
+<div align="center">
+  <img src="imagenes/imagen_30.png" width="400px">
+</div>
 
 ### Modelo real con resistencia
 
-
+<div align="center">
+  <img src="imagenes/imagen_31.png" width="400px">
+</div>
 
 ### Modelo real con Vd
 
+<div align="center">
+  <img src="imagenes/imagen_32.png" width="400px">
+</div>
 
 ### Polarización inversa
 
-
+<div align="center">
+  <img src="imagenes/imagen_33.png" width="400px">
+</div>
 
 ### Circuito Electrónico
 
+<div align="center">
+  <img src="imagenes/imagen_34.png" width="400px">
+</div>
 
 
 ### Ideal
 
-
+<div align="center">
+  <img src="imagenes/imagen_35.png" width="400px">
+</div>
 
 ### Circuito final
 
-
+<div align="center">
+  <img src="imagenes/imagen_36.png" width="400px">
+</div>
 
 
 
