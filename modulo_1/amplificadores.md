@@ -85,6 +85,36 @@ La configuración del amplificador inversor tiene varias aplicaciones en electr�
 
 
 
+### Amplificaor no Inversor
+
+El amplificador no inversor es un tipo de amplificador operacional (op-amp) que proporciona una amplificación de señal positiva sin invertir su polaridad. El op-amp es un dispositivo electrónico que tiene dos entradas (inversora y no inversora) y una salida.
+
+El amplificador no inversor utiliza una configuración específica en la que la señal de entrada se aplica a la entrada no inversora (+) del op-amp, mientras que la entrada inversora (-) se conecta a una referencia de voltaje, generalmente a tierra (GND). La salida del amplificador se toma desde el terminal de salida y puede estar conectada a un circuito de carga o utilizarse como señal de salida amplificada.
+
+La ganancia del amplificador no inversor se determina mediante dos resistencias: una resistencia R1 conectada desde la entrada no inversora (+) a la entrada de la señal y una resistencia R2 conectada entre la salida del op-amp y la entrada no inversora (+).
+
+El circuito está descrito acontinuación:
+
+<div align="center">
+  <img src="imagenes/imagen_49.png" width="300px">
+</div>
+La fórmula para calcular la ganancia del amplificador no inversor es:
+
+<div align="center">
+  <img src="imagenes/imagen_50.png" width="300px">
+</div>
+
+Algunas características importantes del amplificador no inversor son:
+
+Ganancia estable y predecible: La ganancia del amplificador está determinada por el valor de las resistencias R1 y R2, lo que permite un control preciso de la amplificación.
+
+Alta impedancia de entrada: La entrada no inversora tiene una alta impedancia, lo que significa que carga mínimamente la fuente de señal.
+
+Bajo ruido: Los amplificadores operacionales generalmente tienen bajos niveles de ruido, lo que es beneficioso para aplicaciones que requieren una alta relación señal-ruido.
+
+Mayor rango de voltaje de salida: El amplificador no inversor puede proporcionar una amplificación positiva de la señal de entrada, lo que permite obtener una señal de salida con un rango de voltaje mayor en comparación con un amplificador inversor.
+
+Es importante tener en cuenta que los amplificadores operacionales ideales tienen características ideales y suponen una diferencia de potencial (tensión) nula entre sus entradas. En la práctica, los op-amps reales tienen limitaciones y se deben considerar ciertas restricciones para obtener un rendimiento óptimo en las aplicaciones.
 
 
 
