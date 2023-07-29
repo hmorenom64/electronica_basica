@@ -22,6 +22,8 @@ henry.moreno@escuelaing.edu.co
 
 # **CURSO DE ELECTRONICA BASICA PARA INGENIEROS. MODULO 1. AMPLIFICADORES OPERACIONALES**
 
+## Amplificador Operacional
+
 Un amplificador operacional, comúnmente conocido como "op-amp" (abreviatura de operational amplifier en inglés), es un dispositivo electrónico con dos entradas y una sola salida, diseñado para amplificar señales eléctricas. Es uno de los componentes más importantes en la electrónica analógica y se utiliza ampliamente en circuitos para realizar diversas funciones, como amplificación, sumas, restas, integración, derivación, entre otras.
 
 El símbolo esquemático del amplificador operacional es un triángulo con dos entradas marcadas (+ y -) y una salida:
@@ -52,6 +54,39 @@ En teoría, el valor de ganancia (K) es infinito, pero en la práctica, los ampl
 Los amplificadores operacionales se alimentan con una fuente de voltaje dual (por ejemplo, +Vcc y -Vcc) para permitir la amplificación de señales tanto positivas como negativas.
 
 Es importante destacar que el amplificador operacional ideal tiene características ideales, como alta impedancia de entrada, ganancia infinita, ancho de banda infinito y rechazo infinito del modo común. Sin embargo, en la práctica, los amplificadores operacionales reales tienen limitaciones debido a la tecnología y otros factores, y estas limitaciones se tienen en cuenta al diseñar y utilizar circuitos con op-amps.
+
+### Amplificador Inversor
+
+El amplificador inversor es un tipo de configuración de amplificador operacional (op-amp) muy común y ampliamente utilizado en circuitos electrónicos. La función principal del amplificador inversor es invertir la polaridad de la señal de entrada aplicada a su terminal de entrada, es decir, si la señal de entrada aumenta, la señal de salida disminuirá proporcionalmente, y viceversa.
+
+La configuración básica del amplificador inversor consta de dos elementos principales: el amplificador operacional y dos resistencias. La señal de entrada se aplica al terminal de entrada no inversor (+) del amplificador operacional, mientras que el terminal de entrada inversor (-) está conectado a tierra o referencia de voltaje.
+
+Aquí tienes el diagrama esquemático del amplificador inversor:
+
+<div align="center">
+  <img src="imagenes/imagen_47.png" width="400px">
+</div>
+
+
+
+Vin: Señal de entrada.
+Vout: Señal de salida.
+R1 y R2: Resistencias conectadas en la configuración de realimentación.
+Vref: Referencia de voltaje (normalmente conectada a tierra).
+La ganancia del amplificador inversor se calcula mediante la siguiente fórmula:
+
+<div align="center">
+  <img src="imagenes/imagen_48.png" width="400px">
+</div>
+
+Es importante notar que la ganancia será siempre positiva debido al valor absoluto en la fórmula. Sin embargo, como la señal se invierte, su polaridad será opuesta a la señal de entrada.
+
+La configuración del amplificador inversor tiene varias aplicaciones en electrónica, como amplificación de señales, filtros activos, generadores de onda y más. Al elegir los valores de las resistencias R1 y R2, puedes ajustar la ganancia según tus necesidades específicas. Ten en cuenta que el valor de R2 generalmente es mayor que el valor de R1 para obtener una amplificación adecuada.
+
+
+
+
+
 
 
 ### Control de versiones
