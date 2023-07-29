@@ -140,6 +140,20 @@ La frecuencia donde el filtro permite mayor ganancia de salida, se le denomina f
   <img src="ecuaciones/ecuacion_12.png" width="200px">
 </div>
 
+### Taller de Evaluación
+
+1. Implementar el siguiente circuito:
+
+  <div align="center">
+  <img src="imagenes/imagen_28.png" width="600px">
+</div> 
+
+Y diligenciar la siguiente tabla:
+
+  <div align="center">
+  <img src="imagenes/imagen_28.png" width="600px">
+</div> 
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
