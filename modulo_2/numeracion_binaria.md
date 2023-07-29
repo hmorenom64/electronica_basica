@@ -69,7 +69,7 @@ El proceso para convertir un número del sistema binario al decimal es aún  má
 Por ejemplo, para convertir el número binario 10111(2) a decimal, lo desarrollamos teniendo en cuenta el valor de cada bit:
 
 <div align="center">
-  <img src="imagenes/im_6.png" width="800px">
+  <img src="imagenes/im_6.png" width="400px">
 </div>
 
 #### EJERCICIOS
@@ -77,6 +77,19 @@ Por ejemplo, para convertir el número binario 10111(2) a decimal, lo desarrolla
 <div align="center">
   <img src="imagenes/im_7.png" width="800px">
 </div>
+
+### CONVERSIÓN DE FRACCIONES DECIMALES A BINARIO
+
+Por el método de multiplicaciones por 2 y tomando el entero y seguir aplicándole el mismo proceso al residuo
+
+
+<div align="center">
+  <img src="imagenes/im_8.png" width="800px">
+</div>
+
+
+
+
 
 ### Control de versiones
 
