@@ -2,6 +2,7 @@
 <img src = "/.icons/image1.jpeg" >
 </div>
 
+
 <div align="center">
 <b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
 <br></div>
