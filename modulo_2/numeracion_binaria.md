@@ -228,6 +228,7 @@ El sistema de numeración hexadecimal consta de dieciséis caracteres y se usan 
   <img src="imagenes/im_23.png" width="800px">
 </div>
 
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
