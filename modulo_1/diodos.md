@@ -182,13 +182,13 @@ Si está polarizado en inverso, así le llegue el pulso de corriente por el GATE
 
 ## Taller de Evaluación
 
-1. Implementar el siguiente circuito y verificar la salida. Refleionar sobre la diferencia de la entrada y la salida
+1. Implementar el siguiente circuito y verificar la salida. Reflexionar sobre la diferencia de la entrada y la salida
 
    <div align="center">
   <img src="imagenes/imagen_42.png" width="800px">
 </div>
 
-2. Implementar el siguiente circuito y verificar la salida. Refleionar sobre la diferencia de la entrada y la salida
+2. Implementar el siguiente circuito y verificar la salida. Reflexionar sobre la diferencia de la entrada y la salida
 
    <div align="center">
   <img src="imagenes/imagen_43.png" width="800px">
