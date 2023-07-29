@@ -173,6 +173,12 @@ Restar  7 – 4
   <img src="imagenes/im_14.png" width="300px">
 </div>
 
+
+ <div align="center">
+  <img src="imagenes/im_15.png" width="300px">
+</div>
+
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
