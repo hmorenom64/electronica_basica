@@ -169,15 +169,20 @@ Veamos varios casos: ( en todos tendremos 5 bits)
 Restar  7 – 4
  -4 = 00100 -> 11011 -> 11100
 
- <div align="center">
+ <div align="left">
   <img src="imagenes/im_14.png" width="300px">
 </div>
 
 
- <div align="center">
-  <img src="imagenes/im_15.png" width="300px">
+ <div align="left">
+  <img src="imagenes/im_15.png" width="600px">
 </div>
 
+### GENERALIZACION DE LA OPERACIÓN CON SIGNOS
+
+ <div align="left">
+  <img src="imagenes/im_16.png" width="600px">
+</div>
 
 ### Control de versiones
 
