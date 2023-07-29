@@ -96,7 +96,7 @@ La ganancia del amplificador no inversor se determina mediante dos resistencias:
 El circuito está descrito acontinuación:
 
 <div align="center">
-  <img src="imagenes/imagen_49.png" width="300px">
+  <img src="imagenes/imagen_49.png" width="800px">
 </div>
 La fórmula para calcular la ganancia del amplificador no inversor es:
 
