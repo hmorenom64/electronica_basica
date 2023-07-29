@@ -184,6 +184,14 @@ Restar  7 – 4
   <img src="imagenes/im_16.png" width="600px">
 </div>
 
+### NUMEROS HEXADECIMALES
+
+El sistema de numeración hexadecimal consta de dieciséis caracteres y se usan fundamentalmente como una forma simplificada de representar o escribir los números binarios, ya que es muy fácil la conversión entre binario y hexadecimal. Como probablemente habrá comprobado, los números binarios largos son difíciles de leer y escribir, ya que es fácil omitir o transponer un bit. Puesto que las computadores y microprocesadores sólo entienden los 1s y los 0s, es necesario emplear estos dígitos cuando se programa en “lenguaje máquina”. Imagine tener que escribir una instrucción de sesenta bits para un sistema de microprocesador utilizando 1s y 0s. Es mucho más efectivo utilizar los números hexadecimales. El sistema hexadecimal se usa frecuentemente en computadoras y aplicaciones de microprocesadores.
+
+ <div align="center">
+  <img src="imagenes/im_17.png" width="300px">
+</div>
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
