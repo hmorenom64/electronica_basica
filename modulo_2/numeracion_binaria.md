@@ -39,7 +39,7 @@ El sistema de numeración binario es simplemente otra forma de representar magni
 </div>
 
 
-### CONVERSIÓN DE DECIMAL A BINARIO
+#### CONVERSIÓN DE DECIMAL A BINARIO
 
 
 Convertir un número decimal al sistema binario es muy sencillo: debemos  realizar divisiones por 2 colocando el resto y volviendo a dividir el cociente  por 2 así sucesivamente hasta no tener dividendo.
@@ -56,10 +56,26 @@ Tomando los restos en orden inverso o sea de abajo hacia arriba obtenemos las ci
   <img src="imagenes/im_4.png" width="200px">
 </div>
 
-### EJEMPLOS
+#### EJEMPLOS
 
 <div align="center">
-  <img src="imagenes/im_5.png" width="400px">
+  <img src="imagenes/im_5.png" width="800px">
+</div>
+
+### CONVERSION DE BINARIO A DECIMAL
+
+El proceso para convertir un número del sistema binario al decimal es aún  más sencillo; teniendo en cuenta el valor de cada dígito en su posición, que  es la de una potencia , cuyo exponente es 0 en el bit situado más a la  derecha, y se aumenta en una unidad en el exponente según vamos  avanzando posiciones hacia la izquierda.
+
+Por ejemplo, para convertir el número binario 10111(2) a decimal, lo desarrollamos teniendo en cuenta el valor de cada bit:
+
+<div align="center">
+  <img src="imagenes/im_6.png" width="800px">
+</div>
+
+#### EJERCICIOS
+
+<div align="center">
+  <img src="imagenes/im_7.png" width="800px">
 </div>
 
 ### Control de versiones
