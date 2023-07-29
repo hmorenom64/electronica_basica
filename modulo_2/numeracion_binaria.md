@@ -87,6 +87,34 @@ Por el método de multiplicaciones por 2 y tomando el entero y seguir aplicándo
   <img src="imagenes/im_8.png" width="600px">
 </div>
 
+### ARITMETICA BINARIA
+
+<div align="center">
+  <img src="imagenes/im_9.png" width="600px">
+</div>
+
+<div align="center">
+  <img src="imagenes/im_10.png" width="600px">
+</div>
+
+En el caso de la resta, se debería seguir el mismo procedimiento tradicional para realizar la operación. 
+
+<div align="center">
+  <img src="imagenes/im_11.png" width="600px">
+</div>
+
+### COMPLEMENTO A 1
+
+El complemento a 1 en la aritmética binaria consiste en hallar bit a bit en forma separada, cuanto le faltaría para llegar a 1. Cuando tengo un 0, le faltará 1 para llegar a 1. Cuando tengo un 1, le faltará 0 para llegar a 1.
+
+Si se hace una analogía con el sistema decimal, en este caso sería el complemento a 9, que es el máximo valor que puede tener un símbolo. De esta forma tenemos que el complemento a 9 de 2537 será 7462, ya que lo que le falta a 2 para llegar a 9 es 7, lo que le falta a 5 para llegar a 9 es 4 y así sucesivamente
+
+En el caso binario, el complemento a 1 del número 10110  será 01001.
+
+Observemos que en este caso en particular, podemos introducir el término “negación” o “negado”. La negación de falso es verdadero, la negación de alto es bajo, la negación de si es no, la negación de on es off, y así sucesivamente. La negación de 0 será 1 y la negación de 1 será 0
+
+Es decir, para calcular el complemento a 1 de un número consiste en “negar” cada uno de los símbolos que hacen parte del número en forma separada.
+Electrónicamente es muy sencillo implementar la función de negación.
 
 
 
