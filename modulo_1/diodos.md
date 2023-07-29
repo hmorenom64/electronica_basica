@@ -38,6 +38,34 @@ Además de su uso en la electrónica, los semiconductores también son important
 
 El primer elemento creado bajo estas condiciones se le denominó DIODO
 
+## Diodos
+
+### Diodo Polarizado directamente
+
+
+
+### Modelo real con resistencia
+
+
+
+### Modelo real con Vd
+
+
+### Polarización inversa
+
+
+
+### Circuito Electrónico
+
+
+
+### Ideal
+
+
+
+### Circuito final
+
+
 
 
 
