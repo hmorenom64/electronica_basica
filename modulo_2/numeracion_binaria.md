@@ -233,7 +233,7 @@ El sistema de numeración hexadecimal consta de dieciséis caracteres y se usan 
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2023.07.31| Versión No. 1 | [Henry Moreno](https://github.com/hmorenom64)  |  6 |
+| 2023.07.31| Versión No. 1 | [Henry Moreno](https://github.com/hmorenom64)  |  3 |
 
 _Curso Electronica Básica para Ingenieros es de uso libre para fines académicos.
 
