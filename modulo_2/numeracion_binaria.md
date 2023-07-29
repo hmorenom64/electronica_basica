@@ -116,8 +116,41 @@ Observemos que en este caso en particular, podemos introducir el término “neg
 Es decir, para calcular el complemento a 1 de un número consiste en “negar” cada uno de los símbolos que hacen parte del número en forma separada.
 Electrónicamente es muy sencillo implementar la función de negación.
 
+### COMPLEMENTO A 2
 
+El complemento a 2, es fácil entenderlo si analizamos el complemento a 10 del sistema decimal. El complemento a 10 de un dato decimal, es el valor que hace falta para llegar a la potencia de 10 mas cercana. Por ejemplo, el complemento a 10 de 64 es 36, ya que 64 + 36 =100. El complemento a 10 de 811 es 189, ya que 811 + 189 = 1000
 
+Otra forma de calcularla es hallar el complemento a 9 y sumarle 1. Comp_10 = Comp_9 + 1
+
+De la misma forma, El complemento a 2, es hallar el complemento a 1 y sumarle 1.
+
+Comp_2 = Comp_1 + 1
+
+El complemento a 2 de 1011 es: 0100 + 1 = 0101
+
+El número 1011(2)  es 11(10), y la potencia en 2 mas cercana a 11 es 16. Por lo tanto le faltaría 5 para llegar a 16. Y 5 se escribe 0101
+
+El complemento a 2 de 10110111 es: 01001000 + 1 = 01001001
+
+10110111(2)es 183(10) y la potencia mas cercana es 256, lo que le falta a 183 es 73. 
+
+73(10) = 01001001(2)
+
+### MULTIPLICACION BINARIA
+
+Las reglas de multiplicación son:
+
+<div align="center">
+  <img src="imagenes/im_12.png" width="800px">
+</div>
+
+### NUMEROS CON SIGNO
+
+La primera representación es Signo-Magnitud, en donde el bit MSB corresponderá al signo (0 positivo y 1 negativo) y los bits corresponderán a la magnitud.  Pensemos en un sistema de 4 bits. En este caso los bits 2, 1 y 0 serán la magnitud y el b3 será el signo
+
+<div align="center">
+  <img src="imagenes/im_13.png" width="800px">
+</div>
 
 ### Control de versiones
 
