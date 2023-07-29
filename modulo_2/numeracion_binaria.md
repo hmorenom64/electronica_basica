@@ -152,6 +152,27 @@ La primera representación es Signo-Magnitud, en donde el bit MSB corresponderá
   <img src="imagenes/im_13.png" width="300px">
 </div>
 
+### REPRESENTACION NUMEROS NEGATIVOS COMO COMPLEMENTO A 2
+
+Para representar los números negativos, existe también la forma de representarlos como su complemento a 2. De esta forma es como trabajan todos los sistemas electrónicos digitales. El número positivo mantiene su representación de signo – magnitud, mientras que el número negativo es en C2.
+
+Ejemplos: En todos los casos asumimos 8 bits de tamaño.
+-25 .  El número original es 00011001. El C1 es 11100110. El C2 es 11100110 + 1 = 11100111
+-70. El número original es 01000110. El C1 es 10111001. El C2 es 10111010
+
+Como hay que reservar el MSB para el signo, solamente podemos representar  2^7 valores diferentes. Es decir de 0 hasta 127 positivos. En este caso, tendremos igualmente 2^7 valores diferentes para los negativos. Desde -128 hasta -1. En este caso no hay -0.  Si intentamos representarlo sería: 00000000 y luego C1 será 11111111 y el C2 11111111 + 1 = 100000000. Pero como el máximo tamaño es de 8 bits, tendríamos 00000000
+
+### RESTA CON NÚMEROS REPRESENTADOS MEDIANTE COMPLEMENTO A 2
+
+Esta es la forma como los sistemas digitales realizan la resta. La idea es representar el sustraendo en forma de signo – complemento a 2, dejando el minuendo tal como está. Posteriormente se suman las dos cifras.
+Veamos varios casos: ( en todos tendremos 5 bits)
+Restar  7 – 4
+ -4 = 00100 -> 11011 -> 11100
+
+ <div align="center">
+  <img src="imagenes/im_14.png" width="300px">
+</div>
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
