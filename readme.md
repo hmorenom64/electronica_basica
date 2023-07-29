@@ -66,7 +66,7 @@ A continuación se presenta cada uno de los diferentes módulos, con sus respect
 |[Circuitos Resistivos en DC](modulo_1/circuitos_resistivos.md)|Ilustración de los diferentes modos de circuitos, así como sus diferentes métodos de análisis y la implementación en simulación|
 |[Circuitos pasivos RLC en AC](modulo_1/circuitos_RLC.md)|Análisis de los circuitos RLC, identificando el efecto de la frecuencia en los mismos y su comportamiento típico, lo que lleva a entender el concepto de filtro|
 |[Diodos: conceptos, tipos, y uso de los mismos](modulo_1/diodos.md)|Comprender el concepto de un elemento semiconductor. Apropiación del concepto del Diodo y sus diferentes tipos. Igualmente se revisarán algunos circuitos típicos y sus diferentes aplicaciones|
-|Amplificadores Operacionales: Conceptos, circuitos típicos implementados con Amp. Op.|Se dará alcance al concepto de amplificación de señales y su importancia en la electrónica. Se revisará el funcionamiento del Amplificador Operacional como elemento integrado. De la misma forma se revisarán algunos de sus usos y su implementación en los circuitos típicos, tanto de amplificación como de filtrado|
+|[Amplificadores Operacionales: Conceptos, circuitos típicos implementados con Amp. Op.](modulo_1/amplificadores.md)|Se dará alcance al concepto de amplificación de señales y su importancia en la electrónica. Se revisará el funcionamiento del Amplificador Operacional como elemento integrado. De la misma forma se revisarán algunos de sus usos y su implementación en los circuitos típicos, tanto de amplificación como de filtrado|
 
 
 ## **Módulo 2. – Electrónica Digital**
