@@ -40,7 +40,33 @@ El primer elemento creado bajo estas condiciones se le denominó DIODO
 
 ## Diodos
 
+Un diodo es un componente electrónico fundamental que permite el flujo de corriente eléctrica en una dirección específica y bloquea su paso en la dirección opuesta. Funciona como una especie de válvula para la electricidad, permitiendo que la corriente fluya en una sola dirección.
+
+Los diodos están construidos con materiales semiconductores, generalmente silicio o germanio. Hay diferentes tipos de diodos, cada uno con propiedades específicas para diferentes aplicaciones. Algunos de los tipos más comunes incluyen:
+
+Diodo rectificador: Utilizado para convertir corriente alterna (AC) en corriente continua (DC). Es esencial en fuentes de alimentación y circuitos rectificadores.
+
+Diodo emisor de luz (LED): Emite luz cuando la corriente fluye a través de él en la dirección correcta. Se usa ampliamente en indicadores, iluminación y pantallas.
+
+Diodo zener: Diseñado para operar en inversa en un voltaje específico, manteniendo un voltaje constante a través de él. Se utiliza en reguladores de voltaje y protección contra sobretensiones.
+
+Diodo Schottky: Tiene una caída de voltaje menor y un tiempo de conmutación más rápido en comparación con otros diodos. Se utiliza en aplicaciones de alta frecuencia y conmutación rápida.
+
+Diodo túnel: Exhibe un fenómeno cuántico llamado "efecto túnel" que permite que la corriente fluya incluso cuando la tensión aplicada es menor que la barrera de energía.
+
+Diodo varactor: Su capacidad de almacenar carga hace que sea útil en aplicaciones de sintonización y modulación de frecuencia.
+
+La capacidad del diodo para permitir o bloquear el flujo de corriente se basa en su polarización. En la polarización directa, el diodo permite el flujo de corriente, mientras que en la polarización inversa, bloquea la corriente. Esta propiedad es esencial para su uso en muchos circuitos electrónicos y dispositivos.
+
 ### Diodo Polarizado directamente
+
+Un diodo polarizado directamente es un tipo de configuración eléctrica en la que se aplica una tensión positiva en el ánodo y una tensión negativa en el cátodo de un diodo semiconductor. Esta polarización permite que el diodo conduzca la corriente eléctrica.
+
+Cuando un diodo está polarizado directamente, la barrera de potencial creada por la unión PN del semiconductor se reduce, lo que facilita el flujo de corriente a través del diodo. En este estado, el diodo se comporta como un interruptor cerrado y permite que la corriente fluya libremente desde el ánodo hacia el cátodo.
+
+Para polarizar un diodo directamente, la tensión aplicada debe ser mayor que la caída de tensión del diodo. En diodos de silicio típicos, esta caída de tensión suele ser de aproximadamente 0.7 voltios, mientras que en diodos de germanio es de aproximadamente 0.3 voltios.
+
+Es importante tener en cuenta las características del diodo y las especificaciones del circuito al polarizar un diodo directamente para evitar dañar el componente o el circuito en general. Además, la polarización directa se utiliza en diversas aplicaciones, como en circuitos rectificadores y en la generación de señales en dispositivos electrónicos, como diodos emisores de luz (LED) y fotodiodos.
 
 <div align="center">
   <img src="imagenes/imagen_30.png" width="400px">
@@ -48,11 +74,15 @@ El primer elemento creado bajo estas condiciones se le denominó DIODO
 
 ### Modelo real con resistencia
 
+El circuito dediodo al conducir generaría un corto circuito sobre sus bornes, por lo cual es necesario ponerle una resistencia, tradicionalmente denominada carga o impedancia de carga
+
 <div align="center">
   <img src="imagenes/imagen_31.png" width="400px">
 </div>
 
 ### Modelo real con Vd
+
+Como el diodo al conducir mantiene un voltaje denominado Vd, cuyo valor depende del material con el que se construye, es importante tenerlo en cuenta en el modelo
 
 <div align="center">
   <img src="imagenes/imagen_32.png" width="400px">
@@ -60,11 +90,23 @@ El primer elemento creado bajo estas condiciones se le denominó DIODO
 
 ### Polarización inversa
 
+La polarización inversa de un diodo ocurre cuando se aplica una tensión negativa en el terminal P (ánodo) y una tensión positiva en el terminal N (cátodo). En esta configuración, la corriente eléctrica fluye desde el cátodo hacia el ánodo, lo que normalmente no sucede en la operación normal del diodo.
+
+Cuando se polariza inversamente un diodo, la región de unión PN se expande y se vuelve más ancha, lo que resulta en un aumento significativo en la resistencia. Como resultado, la corriente que fluye en esta dirección suele ser muy pequeña, incluso para tensiones aplicadas relativamente altas.
+
+Este comportamiento se basa en las propiedades intrínsecas de la unión PN en el diodo. Cuando está polarizado inversamente, el diodo está en su estado de corte, lo que significa que bloquea eficientemente la corriente en esta configuración.
+
+Es importante destacar que, aunque la corriente inversa es típicamente muy baja, algunos diodos están diseñados específicamente para trabajar en la región de ruptura inversa, donde se aprovecha este comportamiento y se utilizan como diodos Zener para aplicaciones de regulación de voltaje. En estos diodos, la región de ruptura está controlada y se especifica para permitir corrientes inversas controladas y estables a tensiones inversas específicas.
+
+En resumen, la polarización inversa de un diodo se refiere a aplicar una tensión inversa en el dispositivo, lo que conduce a una corriente muy baja o casi nula en la mayoría de los diodos, excepto en diodos Zener específicos diseñados para trabajar en la región de ruptura inversa.
 <div align="center">
+  
   <img src="imagenes/imagen_33.png" width="400px">
 </div>
 
 ### Circuito Electrónico
+
+El circuito electrónico se identifica en la siguiente figura:
 
 <div align="center">
   <img src="imagenes/imagen_34.png" width="400px">
@@ -73,11 +115,16 @@ El primer elemento creado bajo estas condiciones se le denominó DIODO
 
 ### Ideal
 
+El modelo ideal es cuando no se contempla el voltaje de conduciión. Este caso se puede dar cuando el voltaje sobre la carga es much mayor a Vd.
+
+
 <div align="center">
   <img src="imagenes/imagen_35.png" width="400px">
 </div>
 
 ### Circuito final
+
+El circuito final se ppresenta en la siguiente gráfica
 
 <div align="center">
   <img src="imagenes/imagen_36.png" width="400px">
