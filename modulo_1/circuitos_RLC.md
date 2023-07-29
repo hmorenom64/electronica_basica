@@ -151,7 +151,7 @@ La frecuencia donde el filtro permite mayor ganancia de salida, se le denomina f
 Y diligenciar la siguiente tabla:
 
   <div align="center">
-  <img src="imagenes/imagen_28.png" width="600px">
+  <img src="imagenes/imagen_12.png" width="600px">
 </div> 
 
 ### Control de versiones
