@@ -94,13 +94,13 @@ Por el método de multiplicaciones por 2 y tomando el entero y seguir aplicándo
 </div>
 
 <div align="center">
-  <img src="imagenes/im_10.png" width="600px">
+  <img src="imagenes/im_10.png" width="800px">
 </div>
 
 En el caso de la resta, se debería seguir el mismo procedimiento tradicional para realizar la operación. 
 
 <div align="center">
-  <img src="imagenes/im_11.png" width="600px">
+  <img src="imagenes/im_11.png" width="800px">
 </div>
 
 ### COMPLEMENTO A 1
