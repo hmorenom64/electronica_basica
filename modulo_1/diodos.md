@@ -185,7 +185,7 @@ Si está polarizado en inverso, así le llegue el pulso de corriente por el GATE
 1. Implementar el siguiente circuito y verificar la salida. Refleionar sobre la diferencia de la entrada y la salida
 
    <div align="center">
-  <img src="imagenes/imagen_42.png" width="600px">
+  <img src="imagenes/imagen_42.png" width="800px">
 </div>
 
 
