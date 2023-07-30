@@ -227,7 +227,7 @@ Valer 1
 3. Implementar un circuito lógico que permita "ilumninar" el segmento "a"  de un display 7 segmentos
 
 <div align="center">
-  <img src="imagenes/im_48.png" width="400px">
+  <img src="imagenes/im_48.png" width="200px">
 </div>
 ### Control de versiones
 
