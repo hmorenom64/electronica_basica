@@ -159,8 +159,36 @@ Un codificador 16 x 4, configurado a través de dos codificadores de 8 x 3
   <img src="imagenes/im_62.png" width="600px">
 </div>
 
+## Multiplexores (MUX)
+
+Un multiplexor (MUX) es un dispositivo que permite dirigir la información digital procedente de diversas fuentes a una única línea para ser transmitida a través de dicha línea a un destino común. El multiplexor básico posee varias líneas de entrada de datos y una única línea de salida. También posee entradas de selección de datos, que permiten conmutar los datos digitales provenientes de cualquier entrada hacia la línea de salida. A los multiplexores también se les conoce como selectores de datos.
 
 
+<div align="center">
+  <img src="imagenes/im_63.png" width="600px">
+</div>
+
+
+<div align="center">
+  <img src="imagenes/im_64.png" width="600px">
+</div>
+
+Uno de los circuitos integrados mas comunes para implementar un MUX cuadruple 2x1
+
+<div align="center">
+  <img src="imagenes/im_65.png" width="600px">
+</div>
+
+Podemos tener un MUX 8x1, como el del siguiente circuito:
+
+<div align="center">
+  <img src="imagenes/im_66.png" width="600px">
+</div>
+
+Igualmente podemos tener un MUX 16x1, como el del siguiente circuito:
+<div align="center">
+  <img src="imagenes/im_67.png" width="600px">
+</div>
 ## Taller de Evaluación
 
 1. Diseñar un sistema que me sume entradas binarias (0000 hasta 1111), y a la salida me de BCD (decimal). Es decir, si la entrada fuera 1111 + 1111 debe dar 30
