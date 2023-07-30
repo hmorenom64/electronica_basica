@@ -148,7 +148,7 @@ Un codificador de 8 entradas y tres salidas
 Tiene 8 entradas de 0 a 7, y tres salidas (74LS148)
 
 <div align="center">
-  <img src="imagenes/im_61.png" width="800px">
+  <img src="imagenes/im_61.png" width="600px">
 </div>
 
 ### Ejemplo 7
@@ -156,7 +156,7 @@ Tiene 8 entradas de 0 a 7, y tres salidas (74LS148)
 Un codificador 16 x 4, configurado a través de dos codificadores de 8 x 3
 
 <div align="center">
-  <img src="imagenes/im_62.png" width="800px">
+  <img src="imagenes/im_62.png" width="600px">
 </div>
 
 
