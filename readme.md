@@ -76,12 +76,12 @@ A continuación se presenta cada uno de los diferentes módulos, con sus respect
 | :-: | :-: |
 |[Sistema Numeración Binaria](modulo_2/numeracion_binaria.md)|Diferenciar los distintos sistemas de numeración, y la importancia de la codificación binaria|
 |[Algebra Booleana](modulo_2/algebra_booleana.md)|Apropiación de los principios fundamentales del algebra booleana y la forma de modelar y simplificar funciones digitales|
-|Circuitos y Lógica Combinacional|Entender la funcionalidad de los sistemas combinacionales y los problemas que se pueden atender mediante este esquema de solución.|
-|Circuitos y Lógica secuencial|Solucionar problemas típicos de la lógica secuencial con contadores, registros y dispositivos de almacenamiento temporal|
-|Conversión A/D y D/A|Entender el concepto de los valores análogos, de donde provienen y como se pueden representar mediante códigos binarios, y el HW que se requiere para poder convertir en forma bidireccional dichos valores|
-|Implementación de soluciones con sistemas microcontrolados|Con el uso de Arduino se realizarán las aplicaciones que se realizaron en forma secuencial  y combinacional|
-|Sistemas implementados con MyDAQ|Usar la tarjeta MyDAQ de National Instruments, se implementan soluciones digitales mediante LabVIEW|
-|Sistemas implementados con MyRIO|Usar la tarjeta MyRIO de National Instruments, se implementan soluciones digitales mediante LabVIEW|
+|[Circuitos y Lógica Combinacional](logica_combinacional.md)|Entender la funcionalidad de los sistemas combinacionales y los problemas que se pueden atender mediante este esquema de solución.|
+|[Circuitos y Lógica secuencial](logica_secuencial.md)|Solucionar problemas típicos de la lógica secuencial con contadores, registros y dispositivos de almacenamiento temporal|
+|[Conversión A/D y D/A](conversor_AD_DA.md)|Entender el concepto de los valores análogos, de donde provienen y como se pueden representar mediante códigos binarios, y el HW que se requiere para poder convertir en forma bidireccional dichos valores|
+|[Implementación de soluciones con sistemas microcontrolados](microcontrol.md)|Con el uso de Arduino se realizarán las aplicaciones que se realizaron en forma secuencial  y combinacional|
+|[Sistemas implementados con MyDAQ](sistemas_myDAQ.md)|Usar la tarjeta MyDAQ de National Instruments, se implementan soluciones digitales mediante LabVIEW|
+|[Sistemas implementados con MyRIO](sistemas_MYRIO.md)|Usar la tarjeta MyRIO de National Instruments, se implementan soluciones digitales mediante LabVIEW|
 
 
 ## **Módulo 3. – Soluciones industriales típicas**
