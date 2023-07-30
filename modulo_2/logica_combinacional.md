@@ -99,7 +99,7 @@ La función básica de un decodificador es detectar la presencia de una determin
 Detectar cuando una entrada de 2 bits AB, tiene la combinación 00, 01, 10 o 11
 
 <div align="center">
-  <img src="imagenes/im_56.png" width="800px">
+  <img src="imagenes/im_56.png" width="600px">
 </div>
 
 ### Ejemplo 2
@@ -107,7 +107,7 @@ Detectar cuando una entrada de 2 bits AB, tiene la combinación 00, 01, 10 o 11
 Un decodificador de 4 entradas, debe tener 16 salidas, donde c/u de ellas es mutuamente excluyente (solo una se activa a la vez)
 
 <div align="center">
-  <img src="imagenes/im_57.png" width="800px">
+  <img src="imagenes/im_57.png" width="200px">
 </div>
 
 Podemos observar que las salidas son negadas.
@@ -117,7 +117,7 @@ Podemos observar que las salidas son negadas.
 Un decodificador de BCD a decimal. Solamente se activará una salida a la vez, dependiendo de la combinación de entrada
 
 <div align="center">
-  <img src="imagenes/im_58.png" width="800px">
+  <img src="imagenes/im_58.png" width="600px">
 </div>
 
 ### Ejemplo 4
