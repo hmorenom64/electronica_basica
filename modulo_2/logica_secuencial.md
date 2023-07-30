@@ -22,6 +22,32 @@ henry.moreno@escuelaing.edu.co
 
 # **CURSO DE ELECTRONICA BASICA PARA INGENIEROS. MODULO 2. LOGICA SECUENCIAL**
 
+## Introducción.
+
+La lógica secuencial es un área de la electrónica digital y la lógica computacional que se ocupa del diseño y análisis de sistemas o circuitos que operan en secuencia, es decir, toman en cuenta eventos y condiciones pasados para determinar su comportamiento futuro. En contraste, la lógica combinacional solo depende de las entradas actuales y produce salidas independientes de los estados anteriores.
+
+Los sistemas secuenciales son ampliamente utilizados en dispositivos electrónicos, computadoras, controladores, microprocesadores y otros circuitos digitales que necesitan mantener estados y recordar información. La lógica secuencial utiliza elementos de memoria, como biestables o flip-flops, para almacenar bits de información y tener en cuenta el historial de estados.
+
+Los principales componentes de la lógica secuencial son:
+
+Biestables (Flip-flops): Son dispositivos de almacenamiento que tienen dos estados estables (0 y 1). Estos biestables pueden ser del tipo D, JK, SR, T, entre otros. Se utilizan para mantener estados y almacenar información.
+
+Temporizadores y contadores: Son circuitos secuenciales que se utilizan para medir el tiempo o contar eventos. Los temporizadores generan señales de reloj con una frecuencia determinada, mientras que los contadores cuentan la cantidad de pulsos de entrada.
+
+Registros de desplazamiento: Son circuitos que permiten mover los bits de una entrada a lo largo de una cadena de biestables. Se utilizan para tareas como desplazamiento de datos o implementación de registros de almacenamiento de datos.
+
+Máquinas de estados: Son sistemas secuenciales que cambian de estado en respuesta a entradas específicas y producen salidas según el estado actual. Las máquinas de estados se utilizan ampliamente en el diseño de controladores y protocolos de comunicación.
+
+La lógica secuencial se implementa utilizando circuitos lógicos, como compuertas lógicas y multiplexores, combinados con elementos de memoria para mantener estados. El comportamiento de los circuitos secuenciales se puede describir mediante diagramas de tiempo, tablas de transición y diagramas de estados.
+
+Es importante tener en cuenta que el diseño y análisis de sistemas secuenciales pueden ser complejos debido a la posibilidad de generar comportamientos no deseados, como carreras o conflictos. Por lo tanto, los diseñadores deben aplicar técnicas y metodologías para garantizar el correcto funcionamiento de los circuitos secuenciales.
+
+## Contadores
+
+## Registros de Almacenamiento
+
+
+## Memorias RAM
 
 
 
