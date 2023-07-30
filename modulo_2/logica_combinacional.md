@@ -36,6 +36,17 @@ Para hacer una suma de datos de n bits, lo más práctico es hacer un sistema qu
   <img src="imagenes/im_49.png" width="300px">
 </div>
 
+Las tablas de verdad
+
+<div align="center">
+  <img src="imagenes/im_50.png" width="300px">
+</div>
+
+Las ecuaciones son:
+
+                                𝐹=𝐗⨁𝒀⨁𝑪_𝒊𝒏
+
+                                𝑪_𝒐𝒖𝒕=𝑿𝒀+𝑪_𝒊𝒏 (𝑿+𝒀)
 
 ### Control de versiones
 
