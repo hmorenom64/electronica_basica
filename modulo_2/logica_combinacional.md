@@ -128,6 +128,39 @@ Un decodificador BCD a 7 segementos
   <img src="imagenes/im_59.png" width="800px">
 </div>
 
+## Codificadores
+
+Un codificador es un circuito lógico combinacional que, esencialmente, realiza la función “inversa” del decodificador. Un codificador permite que se introduzca en una de sus entradas un nivel activo que representa un dígito, como puede ser un dígito decimal u octal, y lo convierte en una salida codificada, como BCD o binario. Los codificadores se pueden diseñar también para codificar símbolos diversos y caracteres alfabéticos. El proceso de conversión de símbolos comunes o números a un formato codificado recibe el nombre de codificación.
+
+### Ejemplo 5
+
+Un codificador decimal - BCD. 10 Entradas, mutuamente excluyentes, y 4 salidas. Las cuales identificarán cual entrada está activa (74LS147)
+
+
+<div align="center">
+  <img src="imagenes/im_60.png" width="800px">
+</div>
+
+### Ejemplo 6
+
+Un codificador de 8 entradas y tres salidas
+
+Tiene 8 entradas de 0 a 7, y tres salidas (74LS148)
+
+<div align="center">
+  <img src="imagenes/im_61.png" width="800px">
+</div>
+
+### Ejemplo 7
+
+Un codificador 16 x 4, configurado a través de dos codificadores de 8 x 3
+
+<div align="center">
+  <img src="imagenes/im_62.png" width="800px">
+</div>
+
+
+
 ## Taller de Evaluación
 
 1. Diseñar un sistema que me sume entradas binarias (0000 hasta 1111), y a la salida me de BCD (decimal). Es decir, si la entrada fuera 1111 + 1111 debe dar 30
