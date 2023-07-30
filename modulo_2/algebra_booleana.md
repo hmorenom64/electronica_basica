@@ -159,7 +159,7 @@ Se tiene un sistema de procesamiento con dos maquinas en cascada (serie). Cada m
 Diseñar e implementr en Multisim un circuito que permita sumar dos bits, generar el bit de salida y generar el arrastre hacia la siguiente etapa:
 
 <div align="center">
-  <img src="imagenes/im_41.png" width="600px">
+  <img src="imagenes/im_41.png" width="400px">
 </div>
 ### Control de versiones
 
