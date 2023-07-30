@@ -44,9 +44,21 @@ Las tablas de verdad
 
 Las ecuaciones son:
 
-                                𝐹=𝐗⨁𝒀⨁𝑪_𝒊𝒏
+𝐹=𝐗⨁𝒀⨁𝑪_𝒊𝒏
 
-                                𝑪_𝒐𝒖𝒕=𝑿𝒀+𝑪_𝒊𝒏 (𝑿+𝒀)
+𝑪_𝒐𝒖𝒕=𝑿𝒀+𝑪_𝒊𝒏 (𝑿+𝒀)
+
+### Sumador de 4 bits
+
+El circuito sumador de 4 bits, corresponde a 4 sumadores de 1 bit, encadenados en forma serial, permitiendo aplicar el mismo concepto algorítmico
+de la forma como tradicionalmente se desarrolla la suma
+
+<div align="center">
+  <img src="imagenes/im_51.png" width="300px">
+</div>
+
+En la imagen se observa su implementación, en donde se está sumando dos datos: 0011  (equivale a 3)  y 0001 (equivale a 1).
+
 
 ### Control de versiones
 
