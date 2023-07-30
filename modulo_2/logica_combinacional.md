@@ -202,11 +202,17 @@ Igualmente podemos tener un MUX 16x1, como el del siguiente circuito:
 
 5. Implementar un codificador de 32 x 5 utilizando codificadores de 8 x 3
 
+6. Se tienen tres interruptores ABC que me identifican la presencia de monedas de $10, $7, y $5 respectivamente. De la misma forma hay dos interruptores DE que me representan la solicitud de dos productos de $11 y $ 8 respectivamente. Tanto ABC como DE pueden activarse simultáneamente.
+Las salidas serán por un lado un display que me identifica 0 si no entrega producto, 1 si entrega el producto 1, 2 si entrega el producto 2 y 3 si entrega al tiempo los dos productos.
+Otros 3 displays me mostrarán las “vueltas” si se pudo entregar con un signo + en el primer display, o me mostrará lo que faltó de dinero para entregar con un signo – en el primer display.
+
+
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2023.07.31| Versión No. 1 | [Henry Moreno](https://github.com/hmorenom64)  |  3 |
+| 2023.07.31| Versión No. 1 | [Henry Moreno](https://github.com/hmorenom64)  |  6 |
 
 _Curso Electronica Básica para Ingenieros es de uso libre para fines académicos.
 
