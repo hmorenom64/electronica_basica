@@ -216,10 +216,18 @@ Valer 1
 
 ### Taller de Evaluacion
 
-Diseñar e implementr en Multisim un circuito que permita sumar dos bits, generar el bit de salida y generar el arrastre hacia la siguiente etapa:
+1. Diseñar e implementr en Multisim un circuito que permita sumar dos bits, generar el bit de salida y generar el arrastre hacia la siguiente etapa:
 
 <div align="center">
   <img src="imagenes/im_41.png" width="400px">
+</div>
+
+2. Implementar en Mutisim un circuito que permita identificar los número primos entre 0 y 15.
+
+3. Implementar un circuito lógico que permita "ilumninar" el segmento "a"  de un display 7 segmentos
+
+<div align="center">
+  <img src="imagenes/im_48.png" width="400px">
 </div>
 ### Control de versiones
 
