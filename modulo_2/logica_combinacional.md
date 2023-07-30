@@ -54,7 +54,7 @@ El circuito sumador de 4 bits, corresponde a 4 sumadores de 1 bit, encadenados e
 de la forma como tradicionalmente se desarrolla la suma
 
 <div align="center">
-  <img src="imagenes/im_51.png" width="800px">
+  <img src="imagenes/im_50.png" width="800px">
 </div>
  
 
