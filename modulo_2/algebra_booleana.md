@@ -43,14 +43,14 @@ En una puerta AND de dos entradas, la salida X es un nivel ALTO si A y B están 
 </div>
 
 <div align="center">
-  <img src="imagenes/im_25.png" width="300px">
+  <img src="imagenes/im_25.png" width="600px">
 </div>
 
 
 En Automatización, se describe a través de contactores:
 
 <div align="center">
-  <img src="imagenes/im_26.png" width="300px">
+  <img src="imagenes/im_26.png" width="600px">
 </div>
 
 
@@ -67,15 +67,15 @@ La función lógica OR de dos variables se representa matemáticamente mediante 
 
 
 <div align="center">
-  <img src="imagenes/im_27.png" width="300px">
+  <img src="imagenes/im_27.png" width="500px">
 </div>
 
 <div align="center">
-  <img src="imagenes/im_28.png" width="300px">
+  <img src="imagenes/im_28.png" width="600px">
 </div>
 
 <div align="center">
-  <img src="imagenes/im_29.png" width="300px">
+  <img src="imagenes/im_29.png" width="600px">
 </div>
 
 En Automatización, se describe a través de contactores:
@@ -86,8 +86,22 @@ En Automatización, se describe a través de contactores:
 
 Ahora bien, en la carpeta "soluciones_multisim" observaremos la implementación en Multisim, tanto con los interruptores, como con la función OR propia de los sistemas digitales.
 
+### Compuerta XOR
 
+La salida de una puerta OR−exclusiva se pone a nivel ALTO sólo cuando las dos entradas están a niveles lógicos opuestos. Esta operación se puede expresar, en función de dos entradas A y B y una salida X, del siguiente modo:
+En una puerta OR−exclusiva, la salida X es un nivel ALTO si la entrada A está a nivel BAJO y la entrada B está a nivel ALTO; o si la entrada A está a nivel ALTO y la entrada B está a nivel BAJO; X es un nivel BAJO si tanto A como B están a nivel ALTO o BAJO.
 
+<div align="center">
+  <img src="imagenes/im_31.png" width="300px">
+</div>
+
+<div align="center">
+  <img src="imagenes/im_32.png" width="300px">
+</div>
+
+<div align="center">
+  <img src="imagenes/im_33.png" width="300px">
+</div>
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
