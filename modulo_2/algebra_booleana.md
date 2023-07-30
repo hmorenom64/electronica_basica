@@ -174,6 +174,44 @@ Reglas básicas
   <img src="imagenes/im_45.png" width="600px">
 </div>
 
+### Análisis Booleano de circuitos lógicos
+
+El álgebra de Boole proporciona una manera concisa de expresar el funcionamiento de un circuito lógico formado por una combinación de puertas lógicas, de tal forma que la salida puede determinarse por la combinación de los valores de entrada.
+
+- Al finalizar esta sección, el lector deberá ser capaz de:
+- Determinar las expresiones booleanas de una combinación de puertas.
+- Evaluar el funcionamiento lógico de un circuito a partir de su expresión booleana.
+- Construir una tabla de verdad.
+
+#### Expresión Booleana de un circuito lógico
+
+<div align="center">
+  <img src="imagenes/im_46.png" width="600px">
+</div>
+
+#### Construcción de una tabla de verdad de un circuito lógico
+
+Vamos a tomar la misma función:
+𝑌=𝐴.(𝐵+𝐶𝐷)
+Lo primero, es saber que tenemos 
+16 combinaciones posibles:
+
+Lo primero, como la última operación que se realiza
+Es la AND, se evalúa cuales son las combinaciones que
+Hacen 1 dicha función, situación que será 1.1 = 1. Es 
+Decir que A obligatoriamente debe valer 1. De lo
+Contrario la función valdría 0.
+Ahora bien el segundo termino (𝐵+𝐶𝐷) para que
+valga 1, basta con que B valga 1 o la combinación CD
+Valga 1. Es decir, tomamos primero la opción B=1
+Por último, la combinación CD. Para que valga 1,
+Debe ser 1.1 = 1, es decir, que tanto C como D deben
+Valer 1
+
+<div align="center">
+  <img src="imagenes/im_47.png" width="600px">
+</div>
+
 
 
 ### Taller de Evaluacion
