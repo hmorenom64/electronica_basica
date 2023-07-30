@@ -58,7 +58,13 @@ de la forma como tradicionalmente se desarrolla la suma
 </div>
  
 
-En la imagen se observa su implementación, en donde se está sumando dos datos: 0011  (equivale a 3)  y 0001 (equivale a 1).
+En la imagen se observa su implementación, en donde se está sumando dos datos: 0101  (equivale a 5)  y 0110 (equivale a 6). El resultado es 1011 (equivale a 11)
+
+
+## Taller de Evaluación
+
+1. Diseñar un sistema que me sume entradas binarias (0000 hasta 1111), y a la salida me de BCD (decimal). Es decir, si la entrada fuera 1111 + 1111 debe dar 30
+
 
 
 ### Control de versiones
