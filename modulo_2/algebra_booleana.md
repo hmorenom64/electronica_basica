@@ -209,7 +209,7 @@ Debe ser 1.1 = 1, es decir, que tanto C como D deben
 Valer 1
 
 <div align="center">
-  <img src="imagenes/im_47.png" width="600px">
+  <img src="imagenes/im_47.png" width="300px">
 </div>
 
 
