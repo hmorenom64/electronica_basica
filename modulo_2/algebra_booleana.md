@@ -126,9 +126,32 @@ Mientras que la salida de ambos sensores esté a nivel ALTO (5 V), quiere decir 
 
 
 <div align="center">
-  <img src="imagenes/im_36.png" width="600px">
+  <img src="imagenes/im_36.png" width="400px">
 </div>
 
+### Compuerta NOR
+
+<div align="center">
+  <img src="imagenes/im_37.png" width="400px">
+</div>
+La puerta NOR genera una salida a nivel BAJO cuando cualquiera de sus entradas está a nivel ALTO. Sólo cuando todas sus entradas estén a nivel BAJO, la salida se pondrá a nivel ALTO. Para el caso concreto de la puerta NOR de dos entradas, que se muestra en la Figura, con la designación A y B para las entradas y X para la salida, el modo de operación se puede establecer como sigue:
+En una puerta NOR de dos entradas: la salida X es un nivel BAJO si cualquiera de sus entradas A o B está a nivel ALTO, o si ambas entradas A y B están a nivel ALTO; X es un nivel ALTO si A y B están a nivel BAJO.
+
+<div align="center">
+  <img src="imagenes/im_38.png" width="400px">
+</div>
+
+<div align="center">
+  <img src="imagenes/im_39.png" width="400px">
+</div>
+
+#### Ejemplo
+
+Se tiene un sistema de procesamiento con dos maquinas en cascada (serie). Cada maquina muestra si está trabajando (variable =1), o disponible (variable =0). Para que entre un nuevo producto al sistema, deben estar las dos maquinas disponibles al mismo tiempo. El indicador entonces mostrará la disponibilidad.
+
+<div align="center">
+  <img src="imagenes/im_40.png" width="400px">
+</div>
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
