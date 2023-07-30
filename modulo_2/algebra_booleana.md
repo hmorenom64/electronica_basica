@@ -54,7 +54,37 @@ En Automatización, se describe a través de contactores:
 </div>
 
 
-Ahora bien, observaremos la implementación en Multisim, tanto con los interruptores, como con la función AND propia de los sistemas digitales.
+Ahora bien, en la carpeta "soluciones_multisim" observaremos la implementación en Multisim, tanto con los interruptores, como con la función AND propia de los sistemas digitales.
+
+### Compuerta OR
+
+Una puerta OR genera un nivel ALTO a la salida cuando cualquiera de sus entradas está a nivel ALTO. La salida se pone a nivel BAJO sólo cuando todas las entradas están a nivel BAJO. Por tanto, el propósito de una puerta OR es determinar cuándo una o más de sus entradas están a nivel ALTO y generar una salida a nivel ALTO que indique esta condición. Las entradas de la puerta OR de dos entradas de la Figura están etiquetadas como A y B, y la salida como X. Podemos establecer el funcionamiento de la puerta como sigue:
+En una puerta OR, la salida X es un nivel ALTO si cualquiera de las entradas, A o B, o ambas, están a nivel ALTO; X es un nivel BAJO si ambas entradas, A y B, están a nivel BAJO.
+
+El nivel ALTO es el nivel de salida activo o verdadero para la puerta OR. La Figura ilustra la operación lógica para una puerta OR de dos entradas, indicando las cuatro posibles combinaciones de entrada.
+
+La función lógica OR de dos variables se representa matemáticamente mediante un signo + entre las dos variables, por ejemplo, A + B. La suma en el álgebra de Boole implica variables cuyos valores son o el binario 1 o el binario 0. Las reglas básicas de la suma booleana son las siguientes:
+
+
+<div align="center">
+  <img src="imagenes/im_27.png" width="300px">
+</div>
+
+<div align="center">
+  <img src="imagenes/im_28.png" width="300px">
+</div>
+
+<div align="center">
+  <img src="imagenes/im_29.png" width="300px">
+</div>
+
+En Automatización, se describe a través de contactores:
+
+<div align="center">
+  <img src="imagenes/im_30.png" width="300px">
+</div>
+
+Ahora bien, en la carpeta "soluciones_multisim" observaremos la implementación en Multisim, tanto con los interruptores, como con la función OR propia de los sistemas digitales.
 
 
 
