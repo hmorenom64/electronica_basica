@@ -88,13 +88,55 @@ Y la integración, nos permite visualizar si es mayor, igual o menor
 </div>
 
 En este caso en particular está comparando al número 1000 (8) y al número 0111 (7). El sesultado es mayor
+
+
+## Decodificadores
+
+La función básica de un decodificador es detectar la presencia de una determinada combinación de bits (código) en sus entradas y señalar la presencia de este código mediante un cierto nivel de salida. En su forma general, un decodificador posee n líneas de entrada para gestionar n bits y en una de las 2^𝑛  líneas de salida indica la presencia de una o más combinaciones de n bits. 
+
+### Ejemplo 1
+
+Detectar cuando una entrada de 2 bits AB, tiene la combinación 00, 01, 10 o 11
+
+<div align="center">
+  <img src="imagenes/im_56.png" width="800px">
+</div>
+
+### Ejemplo 2
+
+Un decodificador de 4 entradas, debe tener 16 salidas, donde c/u de ellas es mutuamente excluyente (solo una se activa a la vez)
+
+<div align="center">
+  <img src="imagenes/im_57.png" width="800px">
+</div>
+
+Podemos observar que las salidas son negadas.
+
+### Ejemplo 3
+
+Un decodificador de BCD a decimal. Solamente se activará una salida a la vez, dependiendo de la combinación de entrada
+
+<div align="center">
+  <img src="imagenes/im_58.png" width="800px">
+</div>
+
+### Ejemplo 4
+
+Un decodificador BCD a 7 segementos
+
+<div align="center">
+  <img src="imagenes/im_59.png" width="800px">
+</div>
+
 ## Taller de Evaluación
 
 1. Diseñar un sistema que me sume entradas binarias (0000 hasta 1111), y a la salida me de BCD (decimal). Es decir, si la entrada fuera 1111 + 1111 debe dar 30
 
 2. Desarrollar un sistema que tenga 8 entradas y 4 salidas. Las salidas me mostrarán la cantidad de 1’s que hay en la entrada
 
+3. Implementar un circuito que detecte si un número es diferente a otro.
 
+4. 
 
 ### Control de versiones
 
