@@ -169,7 +169,9 @@ Un codificador 16 x 4, configurado a través de dos codificadores de 8 x 3
 
 3. Implementar un circuito que detecte si un número es diferente a otro.
 
-4. 
+4. Implementar un decodificador de 5 x 32, usando decodificadores de 3 x 8
+
+5. Implementar un codificador de 32 x 5 utilizando codificadores de 8 x 3
 
 ### Control de versiones
 
