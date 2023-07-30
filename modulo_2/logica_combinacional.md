@@ -189,6 +189,7 @@ Igualmente podemos tener un MUX 16x1, como el del siguiente circuito:
 <div align="center">
   <img src="imagenes/im_67.png" width="600px">
 </div>
+
 ## Taller de Evaluación
 
 1. Diseñar un sistema que me sume entradas binarias (0000 hasta 1111), y a la salida me de BCD (decimal). Es decir, si la entrada fuera 1111 + 1111 debe dar 30
