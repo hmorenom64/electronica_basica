@@ -75,7 +75,7 @@ A continuación se presenta cada uno de los diferentes módulos, con sus respect
 |Actividad|Alcance|
 | :-: | :-: |
 |[Sistema Numeración Binaria](modulo_2/numeracion_binaria.md)|Diferenciar los distintos sistemas de numeración, y la importancia de la codificación binaria|
-|Algebra Booleana|Apropiación de los principios fundamentales del algebra booleana y la forma de modelar y simplificar funciones digitales|
+|[Algebra Booleana](modulo_2/algebra_booleana.md)|Apropiación de los principios fundamentales del algebra booleana y la forma de modelar y simplificar funciones digitales|
 |Circuitos y Lógica Combinacional|Entender la funcionalidad de los sistemas combinacionales y los problemas que se pueden atender mediante este esquema de solución.|
 |Circuitos y Lógica secuencial|Solucionar problemas típicos de la lógica secuencial con contadores, registros y dispositivos de almacenamiento temporal|
 |Conversión A/D y D/A|Entender el concepto de los valores análogos, de donde provienen y como se pueden representar mediante códigos binarios, y el HW que se requiere para poder convertir en forma bidireccional dichos valores|
