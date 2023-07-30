@@ -138,11 +138,11 @@ La puerta NOR genera una salida a nivel BAJO cuando cualquiera de sus entradas e
 En una puerta NOR de dos entradas: la salida X es un nivel BAJO si cualquiera de sus entradas A o B está a nivel ALTO, o si ambas entradas A y B están a nivel ALTO; X es un nivel ALTO si A y B están a nivel BAJO.
 
 <div align="center">
-  <img src="imagenes/im_38.png" width="400px">
+  <img src="imagenes/im_38.png" width="600px">
 </div>
 
 <div align="center">
-  <img src="imagenes/im_39.png" width="400px">
+  <img src="imagenes/im_39.png" width="600px">
 </div>
 
 #### Ejemplo
@@ -150,7 +150,16 @@ En una puerta NOR de dos entradas: la salida X es un nivel BAJO si cualquiera de
 Se tiene un sistema de procesamiento con dos maquinas en cascada (serie). Cada maquina muestra si está trabajando (variable =1), o disponible (variable =0). Para que entre un nuevo producto al sistema, deben estar las dos maquinas disponibles al mismo tiempo. El indicador entonces mostrará la disponibilidad.
 
 <div align="center">
-  <img src="imagenes/im_40.png" width="400px">
+  <img src="imagenes/im_40.png" width="600px">
+</div>
+
+
+### Taller de Evaluacion
+
+Diseñar e implementr en Multisim un circuito que permita sumar dos bits, generar el bit de salida y generar el arrastre hacia la siguiente etapa:
+
+<div align="center">
+  <img src="imagenes/im_41.png" width="600px">
 </div>
 ### Control de versiones
 
