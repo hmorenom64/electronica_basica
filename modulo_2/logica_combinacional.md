@@ -60,10 +60,38 @@ de la forma como tradicionalmente se desarrolla la suma
 
 En la imagen se observa su implementación, en donde se está sumando dos datos: 0101  (equivale a 5)  y 0110 (equivale a 6). El resultado es 1011 (equivale a 11)
 
+## Comparadores
+
+Para hacer comparación entre dos datos, se hace el algoritmo de comparación del bit mas significativo hacía el bit menos significativo.
+Pensemos dos datos DCBA y XYZW.
+
+<div align="center">
+  <img src="imagenes/im_52.png" width="800px">
+</div>
+
+El siguiente circuito detecta si es mayor
+
+<div align="center">
+  <img src="imagenes/im_53.png" width="800px">
+</div>
+
+El siguiente circuito detecta si son iguales
+
+<div align="center">
+  <img src="imagenes/im_54.png" width="800px">
+</div>
+
+Y la integración, nos permite visualizar si es mayor, igual o menor
+
+<div align="center">
+  <img src="imagenes/im_55.png" width="800px">
+</div>
 
 ## Taller de Evaluación
 
 1. Diseñar un sistema que me sume entradas binarias (0000 hasta 1111), y a la salida me de BCD (decimal). Es decir, si la entrada fuera 1111 + 1111 debe dar 30
+
+2. Desarrollar un sistema que tenga 8 entradas y 4 salidas. Las salidas me mostrarán la cantidad de 1’s que hay en la entrada
 
 
 
