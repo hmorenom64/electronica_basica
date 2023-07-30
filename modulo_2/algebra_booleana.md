@@ -153,6 +153,27 @@ Se tiene un sistema de procesamiento con dos maquinas en cascada (serie). Cada m
   <img src="imagenes/im_40.png" width="600px">
 </div>
 
+## Algebra Booleana
+
+<div align="center">
+  <img src="imagenes/im_42.png" width="600px">
+</div>
+
+<div align="center">
+  <img src="imagenes/im_43.png" width="600px">
+</div>
+
+<div align="center">
+  <img src="imagenes/im_44.png" width="600px">
+</div>
+
+
+Reglas básicas
+
+<div align="center">
+  <img src="imagenes/im_45.png" width="600px">
+</div>
+
 
 ### Taller de Evaluacion
 
