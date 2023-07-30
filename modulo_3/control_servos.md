@@ -35,4 +35,4 @@ _Curso Electronica Básica para Ingenieros es de uso libre para fines académico
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [hmorenom64](https://github.com/hmorenom64?tab=repositories) en GitHub._
 
-| [Anterior](../readme.md)| [:house: Inicio](../readme.md) | [:beginner: Ayuda / Colabora] | [Siguiente](motores_step.md) |
+| [Anterior](../readme.md)| [:house: Inicio](../readme.md) | [:beginner: Ayuda / Colabora] | [Siguiente](control_step.md) |
