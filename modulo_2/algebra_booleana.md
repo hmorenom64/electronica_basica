@@ -96,12 +96,39 @@ En una puerta OR−exclusiva, la salida X es un nivel ALTO si la entrada A está
 </div>
 
 <div align="center">
-  <img src="imagenes/im_32.png" width="300px">
+  <img src="imagenes/im_32.png" width="600px">
+</div>
+
+<div align="left">
+  <img src="imagenes/im_33.png" width="600px">
+</div>
+
+
+### Compuerta NAND
+
+La puerta NAND genera una salida a nivel BAJO sólo cuando todas las entradas están a nivel ALTO. Cuando cualquiera de las entradas está a nivel BAJO, la salida se pondrá a nivel ALTO. Para el caso concreto de la puerta NAND de dos entradas, como la mostrada en la Figura, con la designación A y B para las entradas y X para la salida, el modo de operación se puede establecer como sigue:
+En una puerta NAND de dos entradas, la salida X es un nivel BAJO si las entradas A y B están a nivel ALTO; X es un nivel ALTO si A o B están a nivel BAJO o si ambas, A y B, están a nivel BAJO.
+
+<div align="center">
+  <img src="imagenes/im_34.png" width="600px">
 </div>
 
 <div align="center">
-  <img src="imagenes/im_33.png" width="300px">
+  <img src="imagenes/im_35.png" width="600px">
 </div>
+
+### Ejemplo
+
+Una planta de fabricación utiliza dos tanques para almacenar un determinado líquido químico que se requiere en un proceso de fabricación. Cada tanque dispone de un sensor que detecta cuándo el nivel del líquido cae al 25% del total. Los sensores generan una tensión de 5 V cuando los tanques están llenos por encima del 25%. Cuando el volumen de líquido en el tanque cae por debajo del 25%, el sensor genera un nivel de 0 V.
+En el panel indicador se requiere un diodo emisor de luz (LED, Light−Emitting Diode) verde que el tanque T1 o el T2 o ambos bajan del 25%.
+
+Mientras que la salida de ambos sensores esté a nivel ALTO (5 V), quiere decir que el nivel de los tanques está por encima del 25% del volumen total, y la salida de la puerta NAND está a nivel BAJO (0 V). El circuito del LED verde se activa para una tensión a nivel BAJO.
+
+
+<div align="center">
+  <img src="imagenes/im_36.png" width="600px">
+</div>
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
