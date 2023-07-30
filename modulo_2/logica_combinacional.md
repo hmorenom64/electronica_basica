@@ -87,6 +87,7 @@ Y la integración, nos permite visualizar si es mayor, igual o menor
   <img src="imagenes/im_55.png" width="800px">
 </div>
 
+En este caso en particular está comparando al número 1000 (8) y al número 0111 (7). El sesultado es mayor
 ## Taller de Evaluación
 
 1. Diseñar un sistema que me sume entradas binarias (0000 hasta 1111), y a la salida me de BCD (decimal). Es decir, si la entrada fuera 1111 + 1111 debe dar 30
