@@ -16,12 +16,23 @@ La compuerta AND genera una salida a nivel ALTO sólo cuando todas las entradas 
 
 En una puerta AND de dos entradas, la salida X es un nivel ALTO si A y B están a nivel ALTO; y X es un nivel BAJO si A es un nivel BAJO, o si B es un nivel BAJO, o si A y B están a nivel BAJO.
 
+<div align="center">
+  <img src="imagenes/im_24.png" width="300px">
+</div>
+
+<div align="center">
+  <img src="imagenes/im_25.png" width="300px">
+</div>
+
 
 En Automatización, se describe a través de contactores:
 
+<div align="center">
+  <img src="imagenes/im_26.png" width="300px">
+</div>
 
 
 Ahora bien, observaremos la implementación en Multisim, tanto con los interruptores, como con la función AND propia de los sistemas digitales.
-También observaremos en modo esquemático con ISE de Xilinx.
+
 
 
