@@ -175,6 +175,7 @@ Reglas básicas
 </div>
 
 
+
 ### Taller de Evaluacion
 
 Diseñar e implementr en Multisim un circuito que permita sumar dos bits, generar el bit de salida y generar el arrastre hacia la siguiente etapa:
