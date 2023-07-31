@@ -127,7 +127,7 @@ Estos registros son ampliamente utilizados en diversas aplicaciones, como comuni
   <img src="imagenes/im_83.png" width="700px">
 </div>
 
-## Memorias RAM
+
 
 ## Taller de Evaluación
 
