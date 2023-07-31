@@ -82,7 +82,7 @@ Se debe tener un interruptor que seleccione si para cada bit se toma la salida d
   <img src="imagenes/im_80.png" width="700px">
 </div>
 
-### Contador Binario cn carga en Paralelo
+### Contador Binario con carga en Paralelo
 
 Deberá tener la opción de Cargar un dato externo o Conteo. Asumimos que solo tenga cuenta ascendente. Un bit 𝑈/𝐿 ̅, me indica que cuando está en 1, cuenta ascendente y cuando está en 0, cargará el valor externo.
 En ambos casos, deberá recibir el valor de la carga mediante un pulso de reloj
@@ -93,8 +93,39 @@ En ambos casos, deberá recibir el valor de la carga mediante un pulso de reloj
 
 ## Registros de Almacenamiento
 
+La idea principal de esta aplicación es el almacenamiento de datos en forma ordenada. 
+Ya observamos, mediante el uso del flip_flop tipo D, como es la forma de almacenar un bit.
+En este capítulo observaremos la forma de almacenar n bits, y las diferentes formas de realizarlo, principalmente pensando en el tiempo de ejecución, en los medios de transmisión y en HW utilizado
 
+### Registros con carga en Paralelo
 
+Es el dispositivo que tiene  n entradas, una para cada bit de almacenamiento y n salidas, uno para cada bit almacenado. Se denomina de carga en paralelo, ya que con un solo pulso de reloj se almacenan al mismo tiempo todos los bits
+
+<div align="center">
+  <img src="imagenes/im_82.png" width="700px">
+</div>
+
+### Registros de Desplazamiento
+
+Los registros de desplazamiento (también conocidos como shift registers en inglés) son circuitos digitales utilizados para almacenar y mover datos de una posición a otra dentro del registro. Estos registros son especialmente útiles en aplicaciones donde se necesita almacenar temporalmente datos serialmente y/o realizar operaciones de desplazamiento.
+
+Hay varios tipos de registros de desplazamiento, pero los dos más comunes son:
+
+Registro de desplazamiento a izquierda (Left Shift Register): En este tipo de registro, los bits se desplazan hacia la izquierda (de posición más significativa a posición menos significativa). Al desplazarse, el bit que se encuentra en el extremo izquierdo se descarta, y en el extremo derecho, se ingresa un nuevo bit (que generalmente es un bit de entrada). Esto puede ser útil para multiplicar un número binario por una potencia de 2, ya que cada desplazamiento hacia la izquierda es equivalente a multiplicar el número por 2.
+
+Registro de desplazamiento a derecha (Right Shift Register): En este tipo de registro, los bits se desplazan hacia la derecha (de posición menos significativa a posición más significativa). Al desplazarse, el bit que se encuentra en el extremo derecho se descarta, y en el extremo izquierdo, se ingresa un nuevo bit (generalmente se duplica el bit más significativo o se usa un bit de entrada). Esto puede ser útil para dividir un número binario por una potencia de 2, ya que cada desplazamiento hacia la derecha es equivalente a dividir el número por 2.
+
+Los registros de desplazamiento pueden tener diferentes configuraciones, como:
+
+Registro de desplazamiento de desplazamiento simple (Single Shift Register): Donde los datos se desplazan en una dirección (izquierda o derecha) en función de la operación requerida.
+
+Registro de desplazamiento de desplazamiento circular (Circular Shift Register): En este tipo de registro, los bits se desplazan de manera circular, es decir, el bit que sale por un extremo entra nuevamente por el otro extremo. Esto puede ser útil en aplicaciones donde se necesita rotar los datos.
+
+Estos registros son ampliamente utilizados en diversas aplicaciones, como comunicaciones seriales, procesamiento de señales digitales, generación de secuencias pseudoaleatorias y muchas otras áreas en las que se requiere manipular datos de forma secuencial y temporal.
+
+<div align="center">
+  <img src="imagenes/im_83.png" width="700px">
+</div>
 
 ## Memorias RAM
 
