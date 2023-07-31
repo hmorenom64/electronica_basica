@@ -44,6 +44,22 @@ Es importante tener en cuenta que el diseño y análisis de sistemas secuenciale
 
 ## Contadores
 
+### Contadores Asíncronos (o de rizo). 
+
+Son aquellos donde el pulso de reloj no le llega al mismo tiempo a todos los Flip_Flop, sino que cada reloj depende de las salidas de los bits vecinos a su derecha (LSB).
+
+###Contadores Síncronos. 
+
+Son aquellos donde el pulso de reloj les llega al mismo tiempo a todos los Flip_Flop, sin embargo, las entradas van variando de acuerdo al estado, haciendo que en unos casos hagan una tarea y en otros casos realice otra tarea
+
+<div align="center">
+<img src = "imagenes/im_76.png" >
+</div>
+
+<div align="center">
+<img src = "imagenes/im_77.png" >
+</div>
+
 ## Registros de Almacenamiento
 
 
