@@ -38,7 +38,7 @@ Arduino utiliza la marca ATMEL, y el modelo de microcontrolador depende del tipo
 ### **¿Qué se puede hacer con Arduino, algún ejemplo?**
 
 <div align="center">
-  <img src="imagenes/im_70.png" width="300px">
+  <img src="imagenes/im_70.png" width="600px">
 </div>
 
 Realmente el límite lo marca tu imaginación pero por dar alguna pista, podrías diseñar un sistema para la apertura y cierre de la puerta de un garaje, hacer un robot móvil que detecte objetos o que siga una línea negra, crear un detector de luz y oscuridad, implementar un termómetro, controlar un cilindro neumático, etc…
@@ -76,6 +76,57 @@ Es muy útil para activar servomotores y llevarlos a una posición determinada o
 ### **¿Puedo accionar motores DC con Arduino?**
 
 Si son motores muy pequeños sí sería posible aunque no es recomendable. Los motores necesitan un consumo alto de corriente, sobre todo si tienen que mover cierta carga, por lo que se recomienda o bien utilizar una tarjeta Shield o extensión de Arduino que dispone de circuitería apta para proporcionar dicha corriente (transistores). En este manual utilizamos una Shield bautizada como Edubásica de elaboración propia que dispone de un transistor y un circuito integrado LM293 para realizar esta función, además de otras ventajas para el aprendizaje de Arduino.
+
+## Ejemplo 1. Implementación compuerta AND
+
+
+
+## PULSADORES:
+
+Vamos a simular dos entradas lógicas (“1” ó “0”) con dos pulsadores, (pueden ser conmutadores). En este ejemplo usaremos la función AND de manera que, según el estado de las 2 entradas, obtendremos una señal de salida (“1” ó “0”) conforme a la tabla de verdad de la operación. Si te animas puedes montar el circuito tú mismo en una protoboard siguiendo este esquema:
+
+Las entradas están en los pines digitales 1 y 2. Y la salida del sistema es un led (en pin 5) que estará encendido/apagado según el resultado de aplicar la función AND a las 2 variables de entrada.
+
+<div align="center">
+  <img src="imagenes/im_71.png" width="600px">
+</div>
+
+<div align="center">
+  <img src="imagenes/im_72.png" width="600px">
+</div>
+
+<div align="center">
+  <img src="imagenes/im_73.png" width="600px">
+</div>
+
+## **PROGRAMA:**
+
+```cpp
+/*
+  Boole
+  Función AND con 2 variables
+ */
+
+int var1 = 7;   //Pin de entrada del pulsador 1
+int var2 = 2;   //Pin de entrada del pulsador 1
+int led = 5;    //Pin de salida para el led(rojo)
+int estado1 = 0;    //Para almacenar el estado de la variable1
+int estado2 = 0;    //Para almacenar el estado de la variable2
+int resultado = 0;  //Para almacenar el resultado      
+
+void setup() {
+  pinMode(var1, INPUT);     //Iniciliza el pin de entrada 1 como salida
+  pinMode(var2, INPUT);     //Iniciliza el pin de entrada 2 como salida  
+  pinMode(led, OUTPUT);     //Iniciliza el pin del led como salida 
+}
+
+void loop(){
+  estado1 = digitalRead(var1);  //Lee el estado del botón y lo almacena
+  estado2 = digitalRead(var2);  //Lee el estado del botón y lo almacena
+  resultado = (estado1 && estado2); //Función AND con los dos estados
+  digitalWrite(led, resultado);    //Escribimos el resultado en el led
+}
+```
 
 
 
