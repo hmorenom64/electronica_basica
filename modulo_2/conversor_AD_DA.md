@@ -49,6 +49,12 @@ Para un sistema que tenga 4 datos de entrada, mientras que el umbral de salida e
   <img src="imagenes/im_88.png" width="500px">
 </div>
 
+### Implementación Electrónica
+
+<div align="center">
+  <img src="imagenes/im_89.png" width="500px">
+</div>
+
 
 ### Control de versiones
 
