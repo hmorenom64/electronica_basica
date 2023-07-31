@@ -65,13 +65,13 @@ Son aquellos donde el pulso de reloj les llega al mismo tiempo a todos los Flip_
 El término síncrono se refiere a los eventos que tienen una relación temporal fija entre sí. Un contador síncrono es aquel en el que todos los flip-flops del contador reciben en el mismo instante la señal de reloj.
 
 <div align="center">
-  <img src="imagenes/im_78.png" width="500px">
+  <img src="imagenes/im_78.png" width="700px">
 </div>
 
 Eldiarama implementado sería:
 
 <div align="center">
-  <img src="imagenes/im_79.png" width="500px">
+  <img src="imagenes/im_79.png" width="700px">
 </div>
 
 ### Contador sincrono acendente/descendente
@@ -79,10 +79,21 @@ Eldiarama implementado sería:
 Se debe tener un interruptor que seleccione si para cada bit se toma la salida del flip_flop normal o negada. Puede ser un MUX 2x1 o en su defecto una compuerta XOR con la salida de cada bit
 
 <div align="center">
-  <img src="imagenes/im_80.png" width="500px">
+  <img src="imagenes/im_80.png" width="700px">
+</div>
+
+### Contador Binario cn carga en Paralelo
+
+Deberá tener la opción de Cargar un dato externo o Conteo. Asumimos que solo tenga cuenta ascendente. Un bit 𝑈/𝐿 ̅, me indica que cuando está en 1, cuenta ascendente y cuando está en 0, cargará el valor externo.
+En ambos casos, deberá recibir el valor de la carga mediante un pulso de reloj
+
+<div align="center">
+  <img src="imagenes/im_81.png" width="700px">
 </div>
 
 ## Registros de Almacenamiento
+
+
 
 
 ## Memorias RAM
