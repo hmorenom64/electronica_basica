@@ -107,7 +107,7 @@ El método flash utiliza comparadores que comparan una serie de tensiones de ref
 
 En general, se requieren 2^(𝑛−1) comparadores para la conversión a un código binario de n bits. El número de bits empleado en un ADC es su resolución. Una de las desventajas del ADC flash es el gran número de comparadores necesarios para un número binario de tamaño razonable. Su principal ventaja es que tiene un tiempo de conversión rápido, gracias a su alta tasa de transferencia, la cual se mide en muestras por segundo.
 
-div align="center">
+<div align="center">
   <img src="imagenes/im_94.png" width="700px">
 </div>
 
