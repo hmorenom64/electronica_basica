@@ -53,11 +53,33 @@ Son aquellos donde el pulso de reloj no le llega al mismo tiempo a todos los Fli
 Son aquellos donde el pulso de reloj les llega al mismo tiempo a todos los Flip_Flop, sin embargo, las entradas van variando de acuerdo al estado, haciendo que en unos casos hagan una tarea y en otros casos realice otra tarea
 
 <div align="center">
-<img src = "imagenes/im_76.png" >
+  <img src="imagenes/im_76.png" width="500px">
 </div>
 
 <div align="center">
-<img src = "imagenes/im_77.png" >
+  <img src="imagenes/im_77.png" width="500px">
+</div>
+
+### Contadores Síncronos.
+
+El término síncrono se refiere a los eventos que tienen una relación temporal fija entre sí. Un contador síncrono es aquel en el que todos los flip-flops del contador reciben en el mismo instante la señal de reloj.
+
+<div align="center">
+  <img src="imagenes/im_78.png" width="500px">
+</div>
+
+Eldiarama implementado sería:
+
+<div align="center">
+  <img src="imagenes/im_79.png" width="500px">
+</div>
+
+### Contador sincrono acendente/descendente
+
+Se debe tener un interruptor que seleccione si para cada bit se toma la salida del flip_flop normal o negada. Puede ser un MUX 2x1 o en su defecto una compuerta XOR con la salida de cada bit
+
+<div align="center">
+  <img src="imagenes/im_80.png" width="500px">
 </div>
 
 ## Registros de Almacenamiento
