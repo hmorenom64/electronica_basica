@@ -37,7 +37,9 @@ Arduino utiliza la marca ATMEL, y el modelo de microcontrolador depende del tipo
 
 ### **¿Qué se puede hacer con Arduino, algún ejemplo?**
 
-![](img/Captura_de_pantalla_2015-04-06_a_las_11.52.39.png)
+<div align="center">
+  <img src="imagenes/im_70.png" width="300px">
+</div>
 
 Realmente el límite lo marca tu imaginación pero por dar alguna pista, podrías diseñar un sistema para la apertura y cierre de la puerta de un garaje, hacer un robot móvil que detecte objetos o que siga una línea negra, crear un detector de luz y oscuridad, implementar un termómetro, controlar un cilindro neumático, etc…
 
