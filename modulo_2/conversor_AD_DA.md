@@ -84,8 +84,33 @@ Se genera una rampa a través de un contador, el cual va seguido de un DAC. La s
 El circuito implementado en Mutisim se observa a continuación:
 
 <div align="center">
-  <img src="imagenes/im_91.png" width="500px">
+  <img src="imagenes/im_91.png" width="700px">
 </div>
+
+
+### Conversión ADC por aproximaciones sucesivas
+
+Quizás el método de conversión A/D más ampliamente utilizado es el de las aproximaciones sucesivas. Tiene un tiempo de conversión mucho menor que la conversión de pendiente doble, aunque es más lento que el
+método flash. Asimismo, el tiempo de conversión es fijo para cualquier valor de la entrada analógica.
+
+<div align="center">
+  <img src="imagenes/im_92.png" width="700px">
+</div>
+
+<div align="center">
+  <img src="imagenes/im_93.png" width="700px">
+</div>
+
+### Conversión ADC Flash
+
+El método flash utiliza comparadores que comparan una serie de tensiones de referencia con la tensión de entrada analógica. Cuando la tensión  analógica sobrepasa a la tensión de referencia de un comparador determinado, se genera un nivel ALTO. La Figura siguiente presenta un convertidor de 3 bits que utiliza siete circuitos comparadores; no se necesita comparador para el caso de que todas las comparaciones sean cero.
+
+En general, se requieren 2^(𝑛−1) comparadores para la conversión a un código binario de n bits. El número de bits empleado en un ADC es su resolución. Una de las desventajas del ADC flash es el gran número de comparadores necesarios para un número binario de tamaño razonable. Su principal ventaja es que tiene un tiempo de conversión rápido, gracias a su alta tasa de transferencia, la cual se mide en muestras por segundo.
+
+div align="center">
+  <img src="imagenes/im_94.png" width="700px">
+</div>
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
