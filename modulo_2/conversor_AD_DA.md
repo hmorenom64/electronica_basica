@@ -90,8 +90,7 @@ El circuito implementado en Mutisim se observa a continuación:
 
 ### Conversión ADC por aproximaciones sucesivas
 
-Quizás el método de conversión A/D más ampliamente utilizado es el de las aproximaciones sucesivas. Tiene un tiempo de conversión mucho menor que la conversión de pendiente doble, aunque es más lento que el
-método flash. Asimismo, el tiempo de conversión es fijo para cualquier valor de la entrada analógica.
+Quizás el método de conversión A/D más ampliamente utilizado es el de las aproximaciones sucesivas. Tiene un tiempo de conversión mucho menor que la conversión de pendiente doble, aunque es más lento que el método flash. Asimismo, el tiempo de conversión es fijo para cualquier valor de la entrada analógica.
 
 <div align="center">
   <img src="imagenes/im_92.png" width="700px">
