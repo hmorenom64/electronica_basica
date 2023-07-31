@@ -172,12 +172,12 @@ Todo lo que está entre las llaves de **loop()**, se ejecuta indefinidamente. As
 Hay que poner el LDR en A1, las luces (por simplicidad uno), el altavoz y el transistor con la conexión en la base por D5:
 
 <div align="center">
-  <img src="imagenes/im_76.png" width="400px">
+  <img src="imagenes/im_75.png" width="800px">
 </div>
 
 
 
-##Programa:
+## Programa:
 
 ```cpp+lineNumbers:true
 void setup() {
@@ -210,12 +210,19 @@ void loop() {
   }  
 }
 ```
+## Taller de Evaluación
 
+1. Implemente una solución que permite observar en 4 8 leds un contador binario, con intervalos de 1 segundo.
+
+2. Implemente un circuito que cuente de 00 hasta 99 visualizado en dos display 7 segmentos.
+
+3. Implemente un circuito que cuente de 00 hasta 99 visualizado en dos display 7 segmentos. Debe tener una entrada binaria, con la cual se pueda seleccionar si va contando ascendente o descendente
+4. 
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2023.07.31| Versión No. 1 | [Henry Moreno](https://github.com/hmorenom64)  |  6 |
+| 2023.07.31| Versión No. 1 | [Henry Moreno](https://github.com/hmorenom64)  |  12 |
 
 _Curso Electronica Básica para Ingenieros es de uso libre para fines académicos.
 
