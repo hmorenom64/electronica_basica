@@ -22,6 +22,12 @@ henry.moreno@escuelaing.edu.co
 
 # **CURSO DE ELECTRONICA BASICA PARA INGENIEROS. MODULO 2. CONVERORES A/D Y D/A**
 
+## Conversión Digital / Análoga
+
+Consiste en convertir un dato original que está en formato digital, para que a la salida se tenga un valor analógico (variable desde un Valor min hasta un Valor max
+
+Por ejemplo, si tuviéramos dos datos de entrada en formato digital (0,1), mientras que el Valor min =0  y el Valor max= 3, tendríamos:
+
 
 
 
