@@ -55,7 +55,37 @@ Para un sistema que tenga 4 datos de entrada, mientras que el umbral de salida e
   <img src="imagenes/im_89.png" width="500px">
 </div>
 
+## Conversión Análoga / Diggital
 
+La conversión analógica-digital (ADC) es el proceso de convertir una señal analógica en una señal digital. Las señales analógicas son continuas en el tiempo y pueden tomar cualquier valor dentro de un rango específico, mientras que las señales digitales son discretas, tomando valores específicos en intervalos de tiempo regulares.
+
+La conversión analógica-digital se lleva a cabo en muchos dispositivos electrónicos modernos, como computadoras, teléfonos inteligentes, cámaras digitales, sensores, etc. Estos dispositivos generalmente operan con señales digitales, pero la mayoría de las señales en el mundo real son analógicas (por ejemplo, sonido, temperatura, voltaje, etc.). Por lo tanto, es necesario convertir estas señales analógicas en digitales para que puedan ser procesadas, almacenadas o transmitidas electrónicamente.
+
+El proceso de conversión analógica-digital se realiza en dos etapas principales:
+
+Muestreo: En esta etapa, la señal analógica se muestrea en intervalos regulares de tiempo. Se toman muestras de la señal analógica a intervalos específicos, y el valor de la señal en cada punto de muestreo se mantiene para su posterior procesamiento.
+
+Cuantización: Después del muestreo, los valores analógicos de las muestras se cuantifican para representarlos con valores digitales discretos. La cuantización implica asignar un valor digital específico a cada muestra, generalmente usando una escala discreta, como bits (por ejemplo, 8, 16 o 24 bits).
+
+La calidad de la conversión analógica-digital depende de la tasa de muestreo y la resolución de cuantización utilizadas. Una tasa de muestreo más alta y una mayor resolución resultarán en una representación digital más precisa de la señal analógica original.
+
+Es importante destacar que durante este proceso de conversión, siempre existe una pérdida de información, ya que la señal analógica original se representa con una cantidad finita de valores digitales discretos. Esto se conoce como ruido de cuantización, que es un error inherente en el proceso de conversión.
+
+En resumen, la conversión analógica-digital es una parte esencial de la electrónica y la informática modernas, permitiendo la manipulación y el procesamiento eficiente de señales del mundo real mediante dispositivos digitales.
+
+### Conversión ADC por Rampa
+
+Se genera una rampa a través de un contador, el cual va seguido de un DAC. La salida del DAC será una rampa (realmente es una escalera, presentando el ruido granular conocido en telecomunicaciones). Dicha rampa se compara con la señal de entrada, y si llega a ser mayor, frena el proceso de conteo, siendo la salida del contador la señal de salida digital
+
+<div align="center">
+  <img src="imagenes/im_90.png" width="500px">
+</div>
+
+El circuito implementado en Mutisim se observa a continuación:
+
+<div align="center">
+  <img src="imagenes/im_91.png" width="500px">
+</div>
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
