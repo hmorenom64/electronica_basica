@@ -80,8 +80,7 @@ A continuación se presenta cada uno de los diferentes módulos, con sus respect
 |[Circuitos y Lógica secuencial](modulo_2/logica_secuencial.md)|Solucionar problemas típicos de la lógica secuencial con contadores, registros y dispositivos de almacenamiento temporal|
 |[Conversión A/D y D/A](modulo_2/conversor_AD_DA.md)|Entender el concepto de los valores análogos, de donde provienen y como se pueden representar mediante códigos binarios, y el HW que se requiere para poder convertir en forma bidireccional dichos valores|
 |[Implementación de soluciones con sistemas microcontrolados](modulo_2/microcontrol.md)|Con el uso de Arduino se realizarán las aplicaciones que se realizaron en forma secuencial  y combinacional|
-|[Sistemas implementados con MyDAQ](modulo_2/sistemas_myDAQ.md)|Usar la tarjeta MyDAQ de National Instruments, se implementan soluciones digitales mediante LabVIEW|
-|[Sistemas implementados con MyRIO](modulo_2/sistemas_MYRIO.md)|Usar la tarjeta MyRIO de National Instruments, se implementan soluciones digitales mediante LabVIEW|
+
 
 
 ## **Módulo 3. – Soluciones industriales típicas**
