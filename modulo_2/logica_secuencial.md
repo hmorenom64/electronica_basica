@@ -129,8 +129,17 @@ Estos registros son ampliamente utilizados en diversas aplicaciones, como comuni
 
 ## Memorias RAM
 
+## Taller de Evaluación
+
+Implementar el sumador serie. Las operaciones de las computadoras digitales por lo regular se efectúan en paralelo porque este modo de operación es más rápido. Las operaciones en serie son más lentas, pero tienen la ventaja de requerir menos equipo. Para ilustrar el modo de operación en serie, presentaremos aquí el diseño de un sumador en serie. 
+Los dos números binarios que se sumarán en serie se almacenan en dos registros de desplazamiento.
+Los bits se suman par por par utilizando un solo circuito de sumador completo (SC).
+El acarreo de salida del sumador completo se transfiere a un flip-flop D. La salida de este flip-flop se utiliza entonces como acarreo de entrada para el siguiente par de bits significativos. El bit de suma de la salida S del sumador completo podría transferirse a un tercer registro de desplazamiento.
 
 
+<div align="center">
+  <img src="imagenes/im_84.png" width="700px">
+</div>
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
