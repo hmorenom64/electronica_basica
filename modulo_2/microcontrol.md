@@ -172,12 +172,10 @@ Todo lo que está entre las llaves de **loop()**, se ejecuta indefinidamente. As
 Hay que poner el LDR en A1, las luces (por simplicidad uno), el altavoz y el transistor con la conexión en la base por D5:
 
 <div align="center">
-  <img src="imagenes/im_75.png" width="400px">
+  <img src="imagenes/im_76.png" width="400px">
 </div>
 
-##CON EDUBASICA
 
-Se simplifica mucho la conexión sólo el altavoz tal y como está conectado en el montaje 14
 
 ##Programa:
 
