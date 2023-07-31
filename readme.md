@@ -88,8 +88,8 @@ A continuación se presenta cada uno de los diferentes módulos, con sus respect
 
 |Actividad|Alcance|
 | :-: | :-: |
-|[Control de motores SERVOS](modulo_3/control_servos.md)|Con el uso de un motor sencillo SERVO se desarrollarán aplicaciones para controlar el motor, tanto en posición como en velocidad. Se hará uso de MyDAQ, MyRIO y Arduino|
-|[Control de motores STEP TO STEP](modulo_3/control_step.md)|Con el uso de un motor sencillo STEP TO STEP se desarrollarán aplicaciones para controlar el motor, tanto en posición como en velocidad. Se hará uso de MyDAQ, MyRIO y Arduino|
+|[Control de motores SERVOS](modulo_3/control_servos.md)|Con el uso de un motor sencillo SERVO se desarrollarán aplicaciones para controlar el motor, tanto en posición como en velocidad. Se hará uso de  Arduino|
+|[Control de motores STEP TO STEP](modulo_3/control_step.md)|Con el uso de un motor sencillo STEP TO STEP se desarrollarán aplicaciones para controlar el motor, tanto en posición como en velocidad. Se hará uso de Arduino|
 |[Sensores típicos usados en la Electrónica (Arduino)](modulo_3/sensores.md)|Con el uso de los diferentes elementos de HW se desarrollarán aplicaciones de sensores típicos, como Temperatura, Fotorresistencias y otros sensores típicos de la electrónica (Acelerómetros)|
 
 ## **MATERIAL DEL CURSO POR MÓDULOS. NOTAS ACLARATORIAS**
