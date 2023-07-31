@@ -28,7 +28,26 @@ Consiste en convertir un dato original que está en formato digital, para que a 
 
 Por ejemplo, si tuviéramos dos datos de entrada en formato digital (0,1), mientras que el Valor min =0  y el Valor max= 3, tendríamos:
 
+<div align="center">
+  <img src="imagenes/im_85.png" width="500px">
+</div>
 
+### Módelo típico de Procesamiento de señales
+
+
+<div align="center">
+  <img src="imagenes/im_86.png" width="500px">
+</div>
+
+Para un sistema que tenga 4 datos de entrada, mientras que el umbral de salida estará entre 0 y 5 voltios, tenemos:
+
+<div align="center">
+  <img src="imagenes/im_87.png" width="500px">
+</div>
+
+<div align="center">
+  <img src="imagenes/im_88.png" width="500px">
+</div>
 
 
 ### Control de versiones
