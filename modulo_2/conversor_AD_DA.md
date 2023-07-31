@@ -110,6 +110,11 @@ En general, se requieren 2^(𝑛−1) comparadores para la conversión a un cód
   <img src="imagenes/im_94.png" width="700px">
 </div>
 
+## Taller de Evaluación
+
+1. Revisar las aplicaciones típicas de Arduino, para identifcar como funciona el conversor análogo digital. Posteriormente se debe implementar con un potenciometro un sistema de visualización de display 7 segmentos para mostrar en forma digital la señal de voltaje de entrada.
+
+   
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
